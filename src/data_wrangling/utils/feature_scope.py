@@ -78,14 +78,14 @@ def get_feature_scope():
         { 'P051': 'fumou_passado_diariamente' }, # Fumou no passado diariamente
         { 'P052': 'fumou_passado' }, # Fumou no passado
         { 'P053': 'idade_comecou_fumar' }, # Idade começou a fumar
-        { 'P05401': 'quantidade_cigarros' }, # Quantidade de cigarros
-        { 'P05404': 'quantidade_cigarros_palha' }, # Quantidade de cigarros de palha
-        { 'P05407': 'quantidade_cigarros_cravo' }, # Quantidade de cigarros de cravo
-        { 'P05410': 'quantidade_cachimbos' }, # Quantidade de cachimbos
-        { 'P05413': 'quantidade_charutos' }, # Quantidade de charutos
-        { 'P05416': 'quantidade_narguile' }, # Quantidade de narguilé
-        { 'P05419': 'quantidade_outros' }, # Quantidade de outros
-        { 'P058': 'quantidade_cigarros_passado' } # Quantidade de cigarros no passado
+        { 'P05402': 'quantidade_cigarros' }, # Quantidade de cigarros
+        { 'P05405': 'quantidade_cigarros_palha' }, # Quantidade de cigarros de palha
+        { 'P05408': 'quantidade_cigarros_cravo' }, # Quantidade de cigarros de cravo
+        { 'P05411': 'quantidade_cachimbos' }, # Quantidade de cachimbos
+        { 'P05414': 'quantidade_charutos' }, # Quantidade de charutos
+        { 'P05417': 'quantidade_narguile' }, # Quantidade de narguilé
+        { 'P05421': 'quantidade_outros' }, # Quantidade de outros
+        { 'P05801': 'quantidade_cigarros_passado' } # Quantidade de cigarros no passado
     ]
     scope.append(modulo_p)
 

@@ -1,3 +1,5 @@
+import pandas as pd
+
 DEFAULT_NUMBER = 0
 DEFAULT_NUMBER_UNNAPLICABLE = 99
 DEFAULT_STRING_UNNAPLICABLE = "<None>"
@@ -97,31 +99,31 @@ def transform_P00404(df):
 
 def transform_P00901(df):
     # P00901 - Em quantos dias da semana, o(a) Sr(a) costuma comer pelo menos um tipo de verdura ou legume (sem contar batata, mandioca, cará ou inhame) como alface, tomate, couve, cenoura, chuchu, berinjela, abobrinha?
-    df['P00901'] = df['P00901'].replace("<None>", DEFAULT_NUMBER_UNNAPLICABLE)
+    df['P00901'] = df['P00901'].replace("<None>", DEFAULT_NUMBER)
     df = df.astype({'P00901': int})
     return df
 
 def transform_P01101(df):
     # P01101 - Em quantos dias da semana o(a) Sr(a) costuma comer carne vermelha (boi, porco, cabrito, bode, ovelha etc.)?
-    df['P01101'] = df['P01101'].replace("<None>", DEFAULT_NUMBER_UNNAPLICABLE)
+    df['P01101'] = df['P01101'].replace("<None>", DEFAULT_NUMBER)
     df = df.astype({'P01101': int})
     return df
 
 def transform_P013(df):
     # P013 - Em quantos dias da semana o(a) Sr(a) costuma comer frango/galinha?
-    df['P013'] = df['P013'].replace("<None>", DEFAULT_NUMBER_UNNAPLICABLE)
+    df['P013'] = df['P013'].replace("<None>", DEFAULT_NUMBER)
     df = df.astype({'P013': int})
     return df
 
 def transform_P015(df):
     # P015 - Em quantos dias da semana o(a) Sr(a) costuma comer peixe?
-    df['P015'] = df['P015'].replace("<None>", DEFAULT_NUMBER_UNNAPLICABLE)
+    df['P015'] = df['P015'].replace("<None>", DEFAULT_NUMBER)
     df = df.astype({'P015': int})
     return df
 
 def transform_P035(df):
     # P035 - Quantos dias por semana o(a) Sr(a) costuma (costumava) praticar exercício físico ou esporte?
-    df['P035'] = df['P035'].replace("<None>", DEFAULT_NUMBER_UNNAPLICABLE)
+    df['P035'] = df['P035'].replace("<None>", DEFAULT_NUMBER)
     df = df.astype({'P035': int})
     return df
 
@@ -137,93 +139,114 @@ def transform_P050(df):
     df = df.astype({'P050': int})
     return df
 
+def transform_P05401(df):
+    # P05402 - Quantidade de cigarros
+    # Sum all tobacco product quantities into P05402
+    tobacco_columns = ['P05402', 'P05405', 'P05408', 'P05411', 'P05414', 'P05417', 'P05421', 'P05801']
+    columns_to_drop = [ col for col in tobacco_columns if 'P05402' not in col ]
+    
+    # Replace <None> values with 0 for all tobacco columns
+    for col in tobacco_columns:
+        if col in df.columns:
+            df[col] = df[col].replace("<None>", 0)
+            df[col] = df[col].replace("99", 0)
+            df[col] = pd.to_numeric(df[col], errors='coerce').fillna(0)
+    
+    # Sum all tobacco product quantities into P05402
+    df['P05402'] = df[tobacco_columns].sum(axis=1)
+    df = df.astype({'P05402': int})
+
+    # Drop the individual tobacco columns since we've summed them into P05402
+    df = df.drop(columns=[col for col in columns_to_drop if col in df.columns])
+    return df
+
 def transform_P05901(df):
     # P05901 - Número de anos que parou de fumar
-    df['P05901'] = df['P05901'].replace("<None>", DEFAULT_NUMBER_UNNAPLICABLE)
+    df['P05901'] = df['P05901'].replace("<None>", DEFAULT_NUMBER)
     df = df.astype({'P05901': int})
     return df
 
 def transform_P05902(df):
     # P05902 - Número de meses que parou de fumar
-    df['P05902'] = df['P05902'].replace("<None>", DEFAULT_NUMBER_UNNAPLICABLE)
+    df['P05902'] = df['P05902'].replace("<None>", DEFAULT_NUMBER)
     df = df.astype({'P05902': int})
     return df
 
 def transform_J038(df):
     # J038 - Nos últimos 12 meses, quantas vezes ___ esteve internado(a)
-    df['J038'] = df['J038'].replace("<None>", DEFAULT_NUMBER_UNNAPLICABLE)
+    df['J038'] = df['J038'].replace("<None>", DEFAULT_NUMBER)
     df = df.astype({'J038': int})
     return df
 
 def transform_Q003(df):
     # Q003 - Que idade o(a) Sr(a) tinha no primeiro diagnóstico de hipertensão arterial (pressão alta)?
-    df['Q003'] = df['Q003'].replace("<None>", DEFAULT_NUMBER_UNNAPLICABLE)
+    df['Q003'] = df['Q003'].replace("<None>", DEFAULT_NUMBER)
     df = df.astype({'Q003': int})
     return df
 
 def transform_Q031(df):
     # Q031 - Que idade o(a) Sr(a) tinha no primeiro diagnóstico de diabetes?
-    df['Q031'] = df['Q031'].replace("<None>", DEFAULT_NUMBER_UNNAPLICABLE)
+    df['Q031'] = df['Q031'].replace("<None>", DEFAULT_NUMBER)
     df = df.astype({'Q031': int})
     return df
 
 def transform_Q061(df):
     # Q061 - Que idade o(a) Sr(a) tinha no primeiro diagnóstico de colesterol alto?
-    df['Q061'] = df['Q061'].replace("<None>", DEFAULT_NUMBER_UNNAPLICABLE)
+    df['Q061'] = df['Q061'].replace("<None>", DEFAULT_NUMBER)
     df = df.astype({'Q061': int})
     return df
 
 def transform_Q064(df):
     # Q064 - Que idade o(a) Sr(a) tinha no primeiro diagnóstico de doença do coração?
-    df['Q064'] = df['Q064'].replace("<None>", DEFAULT_NUMBER_UNNAPLICABLE)
+    df['Q064'] = df['Q064'].replace("<None>", DEFAULT_NUMBER)
     df = df.astype({'Q064': int})
     return df
 
 def transform_Q070(df):
     # Q070 - Que idade o(a) Sr(a) tinha no primeiro diagnóstico de derrame (AVC)?
-    df['Q070'] = df['Q070'].replace("<None>", DEFAULT_NUMBER_UNNAPLICABLE)
+    df['Q070'] = df['Q070'].replace("<None>", DEFAULT_NUMBER)
     df = df.astype({'Q070': int})
     return df
 
 def transform_Q075(df):
     # Q075 - Que idade o(a) Sr(a) tinha no primeiro diagnóstico de asma?
-    df['Q075'] = df['Q075'].replace("<None>", DEFAULT_NUMBER_UNNAPLICABLE)
+    df['Q075'] = df['Q075'].replace("<None>", DEFAULT_NUMBER)
     df = df.astype({'Q075': int})
     return df
 
 def transform_Q080(df):
     # Q080 - Que idade o(a) Sr(a) tinha no primeiro diagnóstico de artrite ou reumatismo?
-    df['Q080'] = df['Q080'].replace("<None>", DEFAULT_NUMBER_UNNAPLICABLE)
+    df['Q080'] = df['Q080'].replace("<None>", DEFAULT_NUMBER)
     df = df.astype({'Q080': int})
     return df
 
 def transform_Q085(df):
     # Q085 - Que idade o(a) Sr(a) tinha quando começou o problema na coluna?
-    df['Q085'] = df['Q085'].replace("<None>", DEFAULT_NUMBER_UNNAPLICABLE)
+    df['Q085'] = df['Q085'].replace("<None>", DEFAULT_NUMBER)
     df = df.astype({'Q085': int})
     return df
 
 def transform_Q09301(df):
     # Q09301 - Que idade o(a) Sr(a) tinha no primeiro diagnóstico de depressão?
-    df['Q09301'] = df['Q09301'].replace("<None>", DEFAULT_NUMBER_UNNAPLICABLE)
+    df['Q09301'] = df['Q09301'].replace("<None>", DEFAULT_NUMBER)
     df = df.astype({'Q09301': int})
     return df
 
 def transform_Q111(df):
     # Q111 - Que idade o(a) Sr(a) tinha no primeiro diagnóstico de doença mental?
-    df['Q111'] = df['Q111'].replace("<None>", DEFAULT_NUMBER_UNNAPLICABLE)
+    df['Q111'] = df['Q111'].replace("<None>", DEFAULT_NUMBER)
     df = df.astype({'Q111': int})
     return df
 
 def transform_Q11701(df):
     # Q11701 - Que idade o(a) Sr(a) tinha no primeiro diagnóstico dessa(s) doença(s) no pulmão?
-    df['Q11701'] = df['Q11701'].replace("<None>", DEFAULT_NUMBER_UNNAPLICABLE)
+    df['Q11701'] = df['Q11701'].replace("<None>", DEFAULT_NUMBER)
     df = df.astype({'Q11701': int})
     return df
 
 def transform_Q125(df):
     # Q125 - Que idade o(a) Sr(a) tinha no primeiro diagnóstico de insuficiência renal crônica?
-    df['Q125'] = df['Q125'].replace("<None>", DEFAULT_NUMBER_UNNAPLICABLE)
+    df['Q125'] = df['Q125'].replace("<None>", DEFAULT_NUMBER)
     df = df.astype({'Q125': int})
     return df
 
