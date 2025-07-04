@@ -1,0 +1,6036 @@
+{
+  "fields": {
+    "A001": {
+      "1": "Casa",
+      "2": "Apartamento",
+      "3": "Habitação em casa de cómodos, cortiço ou cabeça-de-porco",
+      "<None>": "Não aplicável"
+    },
+    "A002": {
+      "1": "Alvenaria com revestimento",
+      "2": "Alvenaria sem revestimento",
+      "3": "Madeira apropriada para construção ",
+      "4": "Taipa não revestida",
+      "5": "Madeira aproveitada",
+      "6": "Palha",
+      "7": "Outro material",
+      "<None>": "Não aplicável"
+    },
+    "A003": {
+      "1": "Telha ",
+      "2": "Laje de concreto",
+      "3": "Madeira apropriada para construção",
+      "4": "Zinco ou chapa metálica",
+      "5": "Madeira aproveitada",
+      "6": "Palha",
+      "7": "Outro material",
+      "<None>": "Não aplicável"
+    },
+    "A004": {
+      "1": "Carpete",
+      "2": "Cerâmica, lajota ou pedra",
+      "3": "Tacos ou tábua corrida",
+      "4": "Cimento",
+      "5": "Madeira aproveitada",
+      "6": "Terra",
+      "7": "Outro material",
+      "<None>": "Não aplicável"
+    },
+    "A005": {
+      "1": "Rede geral de distribuição",
+      "2": "Poço ou nascente na propriedade",
+      "3": "Poço ou nascente fora da propriedade",
+      "4": "Carro-pipa",
+      "5": "Água da chuva armazenada em cisterna",
+      "6": "Água da chuva armazenada de outro modo",
+      "7": "Rios, lagos e igarapés",
+      "8": "Outra ",
+      "<None>": "Não aplicável"
+    },
+    "A006": {
+      "1": "Diariamente ",
+      "2": "Pelo menos uma vez por semana",
+      "3": "Menos que uma vez por semana",
+      "<None>": "Não aplicável"
+    },
+    "A007": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "A008": {
+      "1": "Nenhuma",
+      "2": "Rede geral de distribuição",
+      "3": "Poço ou nascente na propriedade",
+      "4": "Poço ou nascente fora da propriedade",
+      "5": "Carro-pipa",
+      "6": "Água da chuva armazenada em cisterna",
+      "7": "Água da chuva armazenada de outro modo",
+      "8": "Rios, lagos e igarapés",
+      "9": "Outra ",
+      "<None>": "Não aplicável"
+    },
+    "A009": {
+      "1": "Filtrada",
+      "2": "Fervida",
+      "3": "Tratada de outra forma no domicílio",
+      "4": "Mineral industrializada",
+      "5": "Sem tratamento no domicílio",
+      "<None>": "Não aplicável"
+    },
+    "A010": {
+      "01 a 99": "Cômodos",
+      "<None>": "Não aplicável"
+    },
+    "A011": {
+      "01 a 99": "Cômodos servindo permanentemente de dormitório para os moradores do domicílio",
+      "<None>": "Não aplicável"
+    },
+    "A012": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "A013": {
+      "1": "Gás de botijão",
+      "2": "Gás canalizado",
+      "3": "Lenha",
+      "4": "Carvão",
+      "5": "Energia elétrica",
+      "6": "Outro ",
+      "7": "Não tem fogão",
+      "<None>": "Não aplicável"
+    },
+    "A014": {
+      "01 a 99": "Banheiros ou sanitários",
+      "<None>": "Não aplicável"
+    },
+    "A015": {
+      "1": "Rede geral de esgoto ou pluvial",
+      "2": "Fossa séptica",
+      "3": "Fossa rudimentar",
+      "4": "Vala",
+      "5": "Direto para rio, lago ou mar",
+      "6": "Outra ",
+      "<None>": "Não aplicável"
+    },
+    "A016": {
+      "1": "Coletado diretamente por serviço de limpeza",
+      "2": "Coletado em caçamba de serviço de limpeza",
+      "3": "É queimado na propriedade",
+      "4": "É enterrado na propriedade",
+      "5": "Jogado em terreno baldio ou logradouro",
+      "6": "Jogado em rio, lago ou mar",
+      "7": "Outro ",
+      "<None>": "Não aplicável"
+    },
+    "A017": {
+      "1": "Rede geral ",
+      "2": "Outra origem (gerador, placa solar, eólica etc.)",
+      "3": "Não tem energia elétrica",
+      "<None>": "Não aplicável"
+    },
+    "A01801": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "A01802": {
+      "1 a 9": "Televisores a cores",
+      "<None>": "Não aplicável"
+    },
+    "A01803": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "A01804": {
+      "1 a 9": "Geladeiras",
+      "<None>": "Não aplicável"
+    },
+    "A01805": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "A01806": {
+      "1 a 9": "Vídeos/DVDs",
+      "<None>": "Não aplicável"
+    },
+    "A01807": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "A01808": {
+      "1 a 9": "Máquinas de lavar roupa",
+      "<None>": "Não aplicável"
+    },
+    "A01809": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "A01810": {
+      "1 a 9": "Linhas de telefone fixo",
+      "<None>": "Não aplicável"
+    },
+    "A01811": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "A01812": {
+      "1 a 9": "Telefones celulares",
+      "<None>": "Não aplicável"
+    },
+    "A01813": {
+      "1 a 9": "Fornos micro-ondas",
+      "<None>": "Não aplicável"
+    },
+    "A01814": {
+      "1 a 9": "Fornos micro-ondas",
+      "<None>": "Não aplicável"
+    },
+    "A01815": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "A01816": {
+      "1 a 9": "Computadores",
+      "<None>": "Não aplicável"
+    },
+    "A01817": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "A01818": {
+      "1 a 9": "Motocicletas",
+      "<None>": "Não aplicável"
+    },
+    "A019": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "A020": {
+      "1 a 9": "Carros",
+      "<None>": "Não aplicável"
+    },
+    "A021": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "A022": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "A02301": {
+      "001 a 999": "Gatos",
+      "<None>": "Não aplicável"
+    },
+    "A02302": {
+      "001 a 999": "Cachorros",
+      "<None>": "Não aplicável"
+    },
+    "A02303": {
+      "001 a 999": "Aves",
+      "<None>": "Não aplicável"
+    },
+    "A02304": {
+      "001 a 999": "Peixes",
+      "<None>": "Não aplicável"
+    },
+    "A024": {
+      "1": "Sim, todos",
+      "2": "Não, nem todos",
+      "3": "Nenhum deles",
+      "<None>": "Não aplicável"
+    },
+    "B001": {
+      "1": "Sim",
+      "2": "Não",
+      "3": "Não sei",
+      "<None>": "Não aplicável"
+    },
+    "B002": {
+      "1": "Há menos de 2 meses",
+      "2": "De 2 a menos de 6 meses",
+      "3": "De 6 meses a menos de um ano",
+      "4": "Há um ano ou mais",
+      "<None>": "Não aplicável"
+    },
+    "B003": {
+      "1": "Mensalmente",
+      "2": "A cada 2 meses",
+      "3": "De 2 a 4 vezes ",
+      "4": "Uma vez ",
+      "5": "Nunca recebeu",
+      "<None>": "Não aplicável"
+    },
+    "B004": {
+      "1": "Mensalmente",
+      "2": "A cada 2 meses",
+      "3": "De 2 a 4 vezes ",
+      "4": "Uma vez ",
+      "5": "Nunca recebeu",
+      "<None>": "Não aplicável"
+    },
+    "C001": "",
+    "C00301": "",
+    "C004": {
+      "01": "Pessoa responsável pelo domicílio ",
+      "02": "Cônjuge ou companheiro(a) de sexo diferente",
+      "03": "Cônjuge ou companheiro(a) do mesmo sexo",
+      "04": "Filho(a) do responsável e do cônjuge",
+      "05": "Filho(a) somente do responsável",
+      "06": "Enteado(a)",
+      "07": "Genro ou nora",
+      "08": "Pai, mãe, padrasto ou madrasta",
+      "09": "Sogro(a)",
+      "10": "Neto(a)",
+      "11": "Bisneto(a)",
+      "12": "Irmão ou irmã",
+      "13": "Avô ou avó",
+      "14": "Outro parente",
+      "15": "Agregado(a) – Não parente que não compartilha despesas ",
+      "16": "Convivente – Não parente que compartilha despesas ",
+      "17": "Pensionista",
+      "18": "Empregado(a) doméstico(a)",
+      "19": "Parente do(a) empregado(a)  doméstico(a) "
+    },
+    "C006": {
+      "1": "Masculino",
+      "2": "Feminino"
+    },
+    "C00701": {
+      "01 a 31": "Dia de nascimento ",
+      "99": "Não informado"
+    },
+    "C00702": {
+      "01 a 12": "Mês",
+      "99": "Não informado"
+    },
+    "C00703": {
+      "ano atual - 130 a ano atual": "Ano",
+      "9999": "Não informado"
+    },
+    "C008": {
+      "000 a 130": "Idade (em anos)"
+    },
+    "C009": {
+      "1": "Branca",
+      "2": "Preta",
+      "3": "Amarela",
+      "4": "Parda ",
+      "5": "Indígena",
+      "9": "Ignorado"
+    },
+    "C010": {
+      "1": "Sim",
+      "2": "Não"
+    },
+    "C011": {
+      "1": "Casado(a)",
+      "2": "Separado(a) ou desquitado(a) judicialmente",
+      "3": "Divorciado(a)",
+      "4": "Viúvo(a)",
+      "5": "Solteiro(a)",
+      "<None>": "Não aplicável"
+    },
+    "C012": {
+      "1": "A própria pessoa",
+      "2": "Outro morador",
+      "3": "Não morador"
+    },
+    "D001": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "D002": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "D003": {
+      "1": "Pré-escolar (maternal e jardim de infância)",
+      "2": "Alfabetização de jovens e adultos",
+      "3": "Regular do ensino fundamental",
+      "4": "Educação de jovens e adultos (EJA) ou supletivo do ensino fundamental",
+      "5": "Regular do ensino médio",
+      "6": "Educação de jovens e adultos (EJA) ou supletivo do ensino médio",
+      "7": "Superior - graduação",
+      "8": "Mestrado",
+      "9": "Doutorado",
+      "<None>": "Não aplicável"
+    },
+    "D004": {
+      "1": "8 anos",
+      "2": "9 anos",
+      "<None>": "Não aplicável"
+    },
+    "D005": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "D006": {
+      "1": "Primeira (o)",
+      "2": "Segunda (o) ",
+      "3": "Terceira (o) ",
+      "4": "Quarta (o) ",
+      "5": "Quinta (o)",
+      "6": "Sexta (o)",
+      "7": "Sétima (o)",
+      "8": "Oitava (o)",
+      "9": "Nona(o)",
+      "<None>": "Não aplicável"
+    },
+    "D007": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "D008": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "D009": {
+      "01": "Classe de alfabetização – CA ",
+      "02": "Alfabetização de jovens e adultos",
+      "03": "Antigo primário (elementar)",
+      "04": "Antigo ginásio (médio 1º ciclo)",
+      "05": "Regular do ensino fundamental ou do 1º grau ",
+      "06": "Educação de jovens e adultos (EJA) ou supletivo do ensino fundamental",
+      "07": "Antigo científico, clássico etc. (médio 2º ciclo)",
+      "08": "Regular do ensino médio ou do 2º grau",
+      "09": "Educação de jovens e adultos (EJA) ou supletivo do ensino médio",
+      "10": "Superior - graduação",
+      "11": "Mestrado",
+      "12": "Doutorado",
+      "<None>": "Não aplicável"
+    },
+    "D010": {
+      "1": "8 anos",
+      "2": "9 anos",
+      "<None>": "Não aplicável"
+    },
+    "D011": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "D012": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "D013": {
+      "1": "Primeira (o)",
+      "2": "Segunda (o) ",
+      "3": "Terceira (o) ",
+      "4": "Quarta (o) ",
+      "5": "Quinta (o)",
+      "6": "Sexta (o)",
+      "7": "Sétima (o)",
+      "8": "Oitava (o)",
+      "9": "Nona(o)",
+      "<None>": "Não aplicável"
+    },
+    "D014": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "D015": {
+      "1": "A própria pessoa",
+      "2": "Outro morador",
+      "3": "Não morador"
+    },
+    "E001": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "E002": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "E003": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "E004": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "E005": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "E006": {
+      "1": "Férias, folga ou jornada de trabalho variável",
+      "2": "Licença maternidade",
+      "3": "Licença remunerada por motivo de doença ou acidente da própria pessoa",
+      "4": "Outro tipo de licença remunerada (estudo, paternidade, casamento, licença prêmio etc.)",
+      "5": "Afastamento do próprio negócio/empresa por motivo de gestação, doença, acidente etc., sem ser remunerado por instituto de previdência",
+      "6": "Fatores ocasionais (tempo, paralisação nos serviços de transporte etc.) ",
+      "7": "Greve ou paralisação",
+      "8": "Outro motivo",
+      "<None>": "Não aplicável"
+    },
+    "E007": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "E008": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "E01001": {
+      "00 a 30": "Dias",
+      "<None>": "Não aplicável"
+    },
+    "E01002": {
+      "00 a 11": "Meses",
+      "<None>": "Não aplicável"
+    },
+    "E01003": {
+      "00 a 30": "Anos",
+      "<None>": "Não aplicável"
+    },
+    "E011": {
+      "1": "Um ",
+      "2": "Dois ",
+      "3": "Três ou mais ",
+      "<None>": "Não aplicável"
+    },
+    "E01201": {
+      "código": "Ver \"Classificação nacional de ocupações para pesquisas domiciliares (COD) 2010\""
+    },
+    "E014": {
+      "1": "Trabalhador doméstico",
+      "2": "Militar do exército, da marinha, da aeronáutica, da policia militar ou do corpo de bombeiros militar",
+      "3": "Empregado do setor privado",
+      "4": "Empregado do setor público (inclusivé empresas de economia mista)",
+      "5": "Empregador",
+      "6": "Conta própria",
+      "7": "Trabalhador não-remunerado – em ajuda a conta própria ou empregador que era membro do domicílio",
+      "8": "Trabalhador não-remunerado – em ajuda a empregado que era membro do domicílio",
+      "<None>": "Não aplicável"
+    },
+    "E01501": {
+      "código": "Ver \"Composição dos Grupamentos de Atividade\" e “Relação de Códigos de Atividades” da CNAE-Domiciliar 2.0"
+    },
+    "E01601": {
+      "1": "Recebe valor em dinheiro",
+      "<None>": "Não recebe/Não aplicável"
+    },
+    "E01602": {
+      "00000001 a 99999999": "Reais",
+      "<None>": "Não recebe/Não aplicável"
+    },
+    "E01603": {
+      "2": "Recebe valor estimado dos produtos ou mercadorias",
+      "<None>": "Não recebe/Não aplicável"
+    },
+    "E01604": {
+      "00000001 a 99999999": "Reais",
+      "<None>": "Não recebe/Não aplicável"
+    },
+    "E01605": {
+      "3": "Recebe somente em benefícios",
+      "<None>": "Não recebe/Não aplicável"
+    },
+    "E017": {
+      "001 a 120": "Horas",
+      "<None>": "Não aplicável"
+    },
+    "E01801": {
+      "1": "Recebe valor em dinheiro",
+      "<None>": "Não recebe"
+    },
+    "E01802": {
+      "00000001 a 99999999": "Reais",
+      "<None>": "Não recebe/Não aplicável"
+    },
+    "E01803": {
+      "2": "Recebe valor estimado dos produtos ou mercadorias",
+      "<None>": "Não recebe/Não aplicável"
+    },
+    "E01804": {
+      "00000001 a 99999999": "Reais",
+      "<None>": "Não recebe/Não aplicável"
+    },
+    "E01805": {
+      "3": "Recebe somente em benefícios",
+      "<None>": "Não recebe/Não aplicável"
+    },
+    "E019": {
+      "001 a 120": "Horas",
+      "<None>": "Não aplicável"
+    },
+    "E020": {
+      "1": "Sim ",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "E021": {
+      "1": "Achava que seria dispensado ou que o negócio/empresa seria fechado",
+      "2": "Ter um trabalho com garantias trabalhistas ou com maior estabilidade",
+      "3": "Ter o seu próprio negócio/empresa ",
+      "4": "Conseguir um trabalho de acordo com a sua experiência profissional e/ou formação",
+      "5": "Melhorar suas condições de bem-estar (menos desgaste físico, melhores relações de trabalho, menos tempo de transporte etc .) ",
+      "6": "Aumentar os rendimentos",
+      "7": "Trabalhar menor número de horas, mesmo com redução de rendimentos",
+      "8": "Outro motivo",
+      "<None>": "Não aplicável"
+    },
+    "E022": {
+      "1": "Sim ",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "E023": {
+      "01": "Entrou diretamente em contato com empregador (em fábrica, fazenda, mercado, loja ou outro local de trabalho) ",
+      "02": "Fez ou inscreveu-se em concurso ",
+      "03": "Consultou agência privada ou sindicato ",
+      "04": "Consultou agência municipal, estadual ou o Sistema Nacional de Emprego (SINE)   ",
+      "05": "Colocou ou respondeu anúncio ",
+      "06": "Consultou parente, amigo ou colega ",
+      "07": "Buscou ajuda financeira para iniciar o próprio negócio ",
+      "08": "Procurou local, equipamento ou maquinário para iniciar o próprio negócio ",
+      "09": "Solicitou registro ou licença para iniciar o próprio negócio  ",
+      "10": "Tomou outra providência ",
+      "11": "Não tomou providência efetiva ",
+      "<None>": "Não aplicável"
+    },
+    "E024": {
+      "01": "Conseguiu proposta de trabalho para começar após a semana de referência",
+      "02": "Aguardando resposta de medida tomada para conseguir trabalho",
+      "03": "Desistiu de procurar por não conseguir encontrar trabalho",
+      "04": "Acha que não vai encontrar trabalho por ser muito jovem ou muito idoso",
+      "05": "Tinha que cuidar de filho(s), de outro(s) dependente(s) ou dos afazeres domésticos",
+      "06": "Estudo",
+      "07": "Incapacidade física, mental ou doença permanente",
+      "08": "Aposentado por idade/tempo de serviço ou contribuição",
+      "09": "Aposentado por doença/invalidez",
+      "10": "Não desejava trabalhar",
+      "11": "Outro motivo",
+      "<None>": "Não aplicável"
+    },
+    "E025": {
+      "1": "Menos de 1 mês ",
+      "2": "De 1 mês a menos de 1 ano",
+      "3": "De 1 ano a menos de 2 anos",
+      "4": "2 anos ou mais ",
+      "<None>": "Não aplicável"
+    },
+    "E02501": {
+      "01 a 11": "Meses",
+      "<None>": "Não aplicável"
+    },
+    "E02502": {
+      "00 a 11": "Meses",
+      "<None>": "Não aplicável"
+    },
+    "E026": {
+      "1": "Sim ",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "E027": {
+      "1": "A própria pessoa",
+      "2": "Outro morador",
+      "3": "Não morador",
+      "<None>": "Não aplicável"
+    },
+    "F001": {
+      "1": "Sim",
+      "2": "Não"
+    },
+    "F00102": {
+      "00000001 a 99999999": "Reais",
+      "<None>": "Não recebe/Não aplicável"
+    },
+    "F007": {
+      "1": "Sim",
+      "2": "Não"
+    },
+    "F00702": {
+      "00000001 a 99999999": "Reais",
+      "<None>": "Não recebe/Não aplicável"
+    },
+    "F008": {
+      "1": "Sim",
+      "2": "Não"
+    },
+    "F00802": {
+      "00000001 a 99999999": "Reais",
+      "<None>": "Não recebe/Não aplicável"
+    },
+    "G001": {
+      "1": "Sim",
+      "2": "Não"
+    },
+    "G002": {
+      "1": "Nasceu com a deficiência",
+      "2": "Foi adquirida",
+      "<None>": "Não Aplicável"
+    },
+    "G00201": {
+      "00 a 99": "Anos",
+      "<None>": "Não Aplicável"
+    },
+    "G003": {
+      "1": "Síndrome de Down",
+      "2": "Autismo",
+      "3": "Paralisia cerebral",
+      "4": "Outra síndrome",
+      "5": "AVC, AVE, derrame, aneurisma ou epilepsia",
+      "6": "Demência senil ou falhas de memória ",
+      "<None>": "Não aplicável"
+    },
+    "G004": {
+      "1": "Não limita",
+      "2": "Um pouco",
+      "3": "Moderadamente",
+      "4": "Intensamente",
+      "5": "Muito intensamente / Não consegue",
+      "<None>": "Não aplicável"
+    },
+    "G005": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "G006": {
+      "1": "Sim",
+      "2": "Não"
+    },
+    "G007": {
+      "1": "Nasceu com a deficiência",
+      "2": "Foi adquirida",
+      "<None>": "Não aplicável"
+    },
+    "G00701": {
+      "00 a 99": "Anos",
+      "<None>": "Não aplicável"
+    },
+    "G008": {
+      "01": "Paralisia permanente de um dos lados do corpo ",
+      "02": "Paralisia permanente das pernas e dos braços",
+      "03": "Paralisia permanente das pernas ",
+      "04": "Paralisia permanente de uma das pernas",
+      "05": "Amputação ou ausência de perna",
+      "06": "Amputação ou ausência de braço",
+      "07": "Amputação ou ausência de mão",
+      "08": "Amputação ou ausência de pé",
+      "09": "Deformidade congênita ou adquirida em um ou mais membros",
+      "10": "Deficiência motora em decorrência de poliomielite ou paralisia infantil",
+      "11": "Ostomia (adaptação de bolsa de fezes e/ou urina)",
+      "12": "Nanismo",
+      "13": "Outra",
+      "14": "Ausência ou amputação de dedos",
+      "<None>": "Não aplicável"
+    },
+    "G009": {
+      "1": "Não limita",
+      "2": "Um pouco",
+      "3": "Moderadamente",
+      "4": "Intensamente",
+      "5": "Muito intensamente/Não consegue\n",
+      "<None>": "Não aplicável"
+    },
+    "G010": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "G014": {
+      "1": "Sim",
+      "2": "Não"
+    },
+    "G015": {
+      "1": "Nasceu com a deficiência",
+      "2": "Foi adquirida",
+      "<None>": "Não aplicável"
+    },
+    "G01501": {
+      "00 a 99": "Anos",
+      "<None>": "Não aplicável"
+    },
+    "G016": {
+      "1": "Surdez dos dois ouvidos",
+      "2": "Surdez de um ouvido e audição reduzida do outro",
+      "3": "Surdez de um ouvido e audição normal do outro",
+      "4": "Audição reduzida de ambos os ouvidos",
+      "5": "Audição reduzida em um dos ouvidos",
+      "<None>": "Não aplicável"
+    },
+    "G017": {
+      "1": "Não limita",
+      "2": "Um pouco",
+      "3": "Moderadamente",
+      "4": "Intensamente",
+      "5": "Muito intensamente",
+      "<None>": "Não aplicável"
+    },
+    "G018": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "G021": {
+      "1": "Sim",
+      "2": "Não"
+    },
+    "G022": {
+      "1": "Nasceu com a deficiência",
+      "2": "Foi adquirida",
+      "<None>": "Não aplicável"
+    },
+    "G02201": {
+      "00 a 99": "Anos",
+      "<None>": "Não aplicável"
+    },
+    "G023": {
+      "1": "Cegueira de ambos os olhos",
+      "2": "Cegueira de um olho e visão reduzida do outro",
+      "3": "Cegueira de um olho e visão normal do outro",
+      "4": "Baixa visão de ambos os olhos",
+      "5": "Baixa visão em um dos olhos",
+      "<None>": "Não aplicável"
+    },
+    "G024": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "G02501": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "G02502": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "G02503": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "G026": {
+      "1": "Não limita",
+      "2": "Um pouco",
+      "3": "Moderadamente",
+      "4": "Intensamente",
+      "5": "Muito intensamente",
+      "<None>": "Não aplicável"
+    },
+    "G027": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "G032": {
+      "1": "A própria pessoa",
+      "2": "Outro morador",
+      "3": "Não morador"
+    },
+    "I001": {
+      "1": "Sim",
+      "2": "Não"
+    },
+    "I002": {
+      "01 a 99": "Planos de saúde (médico ou odontológico)",
+      "<None>": "Não aplicável"
+    },
+    "I003": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "I004": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "I005": {
+      "1": "Até 6 meses",
+      "2": "Mais de 6 meses até 1 ano",
+      "3": "Mais de 1 ano até 2 anos",
+      "4": "Mais de 2 anos",
+      "<None>": "Não aplicável"
+    },
+    "I006": {
+      "1": "Muito bom",
+      "2": "Bom",
+      "3": "Regular",
+      "4": "Ruim",
+      "5": "Muito ruim",
+      "6": "Nunca usou o plano de saúde",
+      "<None>": "Não aplicável"
+    },
+    "I007": {
+      "1": "Titular morador",
+      "2": "Titular não morador",
+      "<None>": "Não aplicável"
+    },
+    "I00701": {
+      "01 a 30": "Número de ordem do morador titular",
+      "<None>": "Não aplicável"
+    },
+    "I008": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "I009": {
+      "01 a 99": "Pessoas",
+      "<None>": "Não aplicável"
+    },
+    "I010": {
+      "1": "Somente o empregador do titular ",
+      "2": "O titular, através do trabalho atual",
+      "3": "O titular, através do trabalho anterior",
+      "4": "O titular, diretamente ao plano",
+      "5": "Outro morador do domicílio ",
+      "6": "Pessoa não moradora do domicílio ",
+      "7": "Outro",
+      "<None>": "Não aplicável"
+    },
+    "I011": {
+      "1": "Menos de R$50,00",
+      "2": "De R$50,00 a menos de R$100,00",
+      "3": "De R$100,00 a menos de R$200,00",
+      "4": "De R$200,00 a menos de R$300,00",
+      "5": "De R$300,00 a menos de R$500,00",
+      "6": "De R$500,00 a menos de R$1000,00",
+      "7": "R$1000,00 e mais",
+      "<None>": "Não aplicável"
+    },
+    "J001": {
+      "1": "Muito bom",
+      "2": "Bom",
+      "3": "Regular",
+      "4": "Ruim",
+      "5": "Muito ruim"
+    },
+    "J002": {
+      "1": "Sim",
+      "2": "Não"
+    },
+    "J003": {
+      "01 a 14": "Dias",
+      "<None>": "Não aplicável"
+    },
+    "J004": {
+      "01": "Dor nas costas, problema no pescoço ou na nuca",
+      "02": "Dor nos braços",
+      "03": "Artrite ou reumatismo",
+      "04": "DORT – doença osteomuscular relacionada ao trabalho",
+      "05": "Dor de cabeça ou enxaqueca",
+      "06": "Problemas menstruais",
+      "07": "Problemas da gravidez",
+      "08": "Parto",
+      "09": "Problema odontológico",
+      "10": "Resfriado / gripe",
+      "11": "Asma / bronquite / pneumonia",
+      "12": "Diarréia / vômito / náusea / gastrite",
+      "13": "Dengue",
+      "14": "Pressão alta ou outra doença do coração",
+      "15": "Diabetes",
+      "16": "AVC ou derrame",
+      "17": "Câncer",
+      "18": "Depressão",
+      "19": "Outro problema de saúde mental",
+      "20": "Outra doença",
+      "21": "Lesão provocada por acidente de trânsito",
+      "22": "Lesão provocada por outro tipo de acidente",
+      "23": "Lesão provocada por agressão ou outra violência",
+      "24": "Outro problema de saúde",
+      "<None>": "Não aplicável"
+    },
+    "J005": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "J006": {
+      "01 a 14": "Dias",
+      "<None>": "Não aplicável"
+    },
+    "J007": {
+      "1": "Sim",
+      "2": "Não"
+    },
+    "J008": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "J009": {
+      "1": "Sim",
+      "2": "Não"
+    },
+    "J010": {
+      "01": "Farmácia",
+      "02": "Unidade básica de saúde (posto ou centro de saúde ou unidade de saúde da família) ",
+      "03": "Centro de Especialidades, Policlínica pública ou PAM – Posto de Assistência Médica",
+      "04": "UPA (Unidade de Pronto Atendimento)",
+      "05": "Outro tipo de Pronto Atendimento Público (24 horas)",
+      "06": "Pronto-socorro ou emergência de hospital público",
+      "07": "Hospital público/ambulatório",
+      "08": "Consultório particular ou Clínica privada",
+      "09": "Ambulatório ou consultório de empresa ou sindicato",
+      "10": "Pronto-atendimento ou emergência de hospital privado",
+      "11": "No domicílio, com profissional da equipe de saúde da família",
+      "12": "No domicílio, com médico particular",
+      "13": "Outro serviço",
+      "<None>": "Não aplicável"
+    },
+    "J011": {
+      "1": "Nos doze últimos meses",
+      "2": "De 1 ano a menos de 2 anos",
+      "3": "De 2 anos a menos de 3 anos",
+      "4": "3 anos ou mais",
+      "5": "Nunca foi ao médico"
+    },
+    "J012": {
+      "001 a 999": "Vezes",
+      "<None>": "Não aplicável"
+    },
+    "J013": {
+      "1": "Nos doze últimos meses",
+      "2": "De 1 ano a menos de 2 anos",
+      "3": "De 2 anos a menos de 3 anos",
+      "4": "3 anos ou mais",
+      "5": "Nunca foi ao dentista"
+    },
+    "J014": {
+      "1": "Sim",
+      "2": "Não "
+    },
+    "J015": {
+      "01": "Acidente ou lesão",
+      "02": "Doença",
+      "03": "Problema odontológico",
+      "04": "Reabilitação ou terapia",
+      "05": "Continuação de tratamento",
+      "06": "Pré-natal",
+      "07": "Puericultura",
+      "08": "Parto",
+      "09": "Exame complementar de diagnóstico",
+      "10": "Vacinação",
+      "11": "Outro atendimento preventivo",
+      "12": "Solicitação de atestado de saúde",
+      "13": "Outro",
+      "<None>": "Não aplicável"
+    },
+    "J016": {
+      "01": "Farmácia",
+      "02": "Unidade básica de saúde (posto ou centro de saúde ou unidade de saúde da família) ",
+      "03": "Centro de Especialidades, Policlínica pública ou PAM – Posto de Assistência Médica",
+      "04": "UPA (Unidade de Pronto Atendimento)",
+      "05": "Outro tipo de Pronto Atendimento Público (24 horas)",
+      "06": "Pronto-socorro ou emergência de hospital público",
+      "07": "Hospital público/ambulatório",
+      "08": "Consultório particular ou Clínica privada",
+      "09": "Ambulatório ou consultório de empresa ou sindicato",
+      "10": "Pronto-atendimento ou emergência de hospital privado",
+      "11": "No domicílio, com profissional da equipe de saúde da família",
+      "12": "No domicílio, com médico particular",
+      "13": "Outro serviço ",
+      "<None>": "Não aplicável"
+    },
+    "J017": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "J018": {
+      "1": "Não conseguiu vaga ou pegar senha",
+      "2": "Não tinha médico atendendo",
+      "3": "Não tinha dentista atendendo",
+      "4": "Não havia serviço ou profissional de saúde especializado para atender",
+      "5": "Esperou muito e desistiu",
+      "6": "O serviço de saúde não estava funcionando",
+      "7": "Os equipamentos do serviço de saúde não estavam funcionando ou disponíveis para uso",
+      "8": "Não podia pagar pela consulta",
+      "9": "Outro",
+      "<None>": "Não aplicável"
+    },
+    "J019": {
+      "00": "Nenhuma",
+      "01 a 99": "Vezes",
+      "<None>": "Não aplicável"
+    },
+    "J020": {
+      "01": "Farmácia",
+      "02": "Unidade básica de saúde (posto ou centro de saúde ou unidade de saúde da família) ",
+      "03": "Centro de Especialidades, Policlínica pública ou PAM – Posto de Assistência Médica",
+      "04": "UPA (Unidade de Pronto Atendimento)",
+      "05": "Outro tipo de Pronto Atendimento Público (24 horas)",
+      "06": "Pronto-socorro ou emergência de hospital público",
+      "07": "Hospital público/ambulatório",
+      "08": "Consultório particular ou Clínica privada",
+      "09": "Ambulatório ou consultório de empresa ou sindicato",
+      "10": "Pronto-atendimento ou emergência de hospital privado",
+      "11": "No domicílio, com profissional da equipe de saúde da família",
+      "12": "No domicílio, com médico particular",
+      "13": "Outro serviço",
+      "<None>": "Não aplicável"
+    },
+    "J021": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "J022": {
+      "1": "Não conseguiu vaga ou pegar senha",
+      "2": "Não tinha médico atendendo",
+      "3": "Não tinha dentista atendendo",
+      "4": "Não havia profissional de saúde especializado para atender",
+      "5": "Esperou muito e desistiu",
+      "6": "O serviço de saúde não estava funcionando",
+      "7": "Os equipamentos do serviço de saúde não estavam funcionando ou disponíveis para uso",
+      "8": "Não podia pagar pela consulta",
+      "9": "Outro",
+      "<None>": "Não aplicável"
+    },
+    "J023": {
+      "1": "Público",
+      "2": "Privado",
+      "3": "Não sabe",
+      "<None>": "Não aplicável"
+    },
+    "J024": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "J025": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "J026": {
+      "1": "Sim",
+      "2": "Não",
+      "3": "Não sabe",
+      "<None>": "Não aplicável"
+    },
+    "J027": {
+      "01": "Consulta médica",
+      "02": "Consulta odontológica",
+      "03": "Consulta com outro profissional de saúde (fisioterapeuta, fonoaudiólogo, psicólogo, nutricionista, enfermeiro, etc.)",
+      "04": "Atendimento com agente comunitário de saúde ",
+      "05": "Atendimento com parteira",
+      "06": "Atendimento na farmácia",
+      "07": "Vacinação",
+      "08": "Injeção, curativo ou medição de pressão arterial",
+      "09": "Quimioterapia, radioterapia, hemodiálise ou hemoterapia",
+      "10": "Exames laboratoriais ou de imagem ou exames complementares de diagnóstico",
+      "11": "Gesso ou imobilização",
+      "12": "Pequena cirurgia em ambulatório",
+      "13": "Internação hospitalar",
+      "14": "Marcação de consulta ",
+      "15": "Práticas complementares como acupuntura, homeopatia e fitoterapia",
+      "16": "Outro atendimento",
+      "<None>": "Não aplicável"
+    },
+    "J029": {
+      "1": "Sim",
+      "2": "Não",
+      "9 ": "Ignorado",
+      "<None>": "Não aplicável"
+    },
+    "J030": {
+      "1": "Todos ",
+      "2": "Alguns",
+      "3": "Nenhum",
+      "<None>": "Não aplicável"
+    },
+    "J031": {
+      "1": "Não conseguiu obter no serviço público de saúde, pois a farmácia estava fechada",
+      "2": "Os medicamentos não estavam disponíveis no serviço de saúde",
+      "3": "Não conseguiu o(s) medicamento(s) no programa farmácia popular (PFP)",
+      "4": "Não tinha farmácia próxima ou teve dificuldade de transporte",
+      "5": "Não conseguiu encontrar todos os medicamentos na farmácia",
+      "6": "Não tinha dinheiro para comprar",
+      "7": "Não achou necessário",
+      "8": "Desistiu de procurar, pois melhorou",
+      "9": "Outro",
+      "<None>": "Não aplicável"
+    },
+    "J032": {
+      "1": "Sim, todos ",
+      "2": "Sim, alguns",
+      "3": "Não, nenhum",
+      "<None>": "Não aplicável"
+    },
+    "J033": {
+      "1": "Sim, todos ",
+      "2": "Sim, alguns",
+      "3": "Não, nenhum",
+      "<None>": "Não aplicável"
+    },
+    "J034": {
+      "1": "Sim, todos ",
+      "2": "Sim, alguns",
+      "3": "Não, nenhum",
+      "<None>": "Não aplicável"
+    },
+    "J035": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "J036": {
+      "01": "Não houve necessidade",
+      "02": "Não tinha dinheiro",
+      "03": "O local de atendimento era distante ou de difícil acesso",
+      "04": "Horário incompatível",
+      "05": "O atendimento é muito demorado",
+      "06": "O estabelecimento não possuía especialista compatível com suas necessidades",
+      "07": "Achou que não tinha direito",
+      "08": "Não tinha quem o(a) acompanhasse",
+      "09": "Não gostava dos profissionais do estabelecimento",
+      "10": "Greve nos serviços de saúde",
+      "11": "Dificuldade de transporte",
+      "12": "Outro motivo",
+      "<None>": "Não aplicável"
+    },
+    "J037": {
+      "1": "Sim",
+      "2": "Não"
+    },
+    "J038": {
+      "01 a 99": "Vezes",
+      "<None>": "Não aplicável"
+    },
+    "J039": {
+      "1": "Parto normal",
+      "2": "Parto cesáreo",
+      "3": "Tratamento clínico",
+      "4": "Tratamento psiquiátrico",
+      "5": "Cirurgia ",
+      "6": "Exames complementares de diagnóstico",
+      "7": "Outro",
+      "<None>": "Não aplicável"
+    },
+    "J04001": {
+      "00": "-",
+      "01 a 87": "Meses",
+      "88": "Morador ainda está internado",
+      "<None>": "Não aplicável"
+    },
+    "J04002": {
+      "00": "-",
+      "01 a 30": "Dias",
+      "88": "Morador ainda está internado",
+      "<None>": "Não aplicável"
+    },
+    "J041": {
+      "1": "Público",
+      "2": "Privado",
+      "3": "Não sabe",
+      "<None>": "Não aplicável"
+    },
+    "J042": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "J043": {
+      "1": "Sim",
+      "2": "Não ",
+      "9 ": "Ignorado",
+      "<None>": "Não aplicável"
+    },
+    "J044": {
+      "1": "Sim",
+      "2": "Não",
+      "3": "Não sabe",
+      "<None>": "Não aplicável"
+    },
+    "J045": {
+      "1": "Muito bom",
+      "2": "Bom",
+      "3": "Regular",
+      "4": "Ruim",
+      "5": "Muito ruim",
+      "<None>": "Não aplicável"
+    },
+    "J046": {
+      "1": "Sim",
+      "2": "Não"
+    },
+    "J047": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "J048": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "J049": {
+      "1": "Sim",
+      "2": "Não",
+      "3": "Não sabe",
+      "<None>": "Não aplicável"
+    },
+    "J050": {
+      "1": "Muito bom",
+      "2": "Bom",
+      "3": "Regular",
+      "4": "Ruim",
+      "5": "Muito ruim",
+      "<None>": "Não aplicável"
+    },
+    "J051": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "J052": {
+      "1": "SAMU",
+      "2": "Ambulância de serviço público de saúde",
+      "3": "Ambulância de serviço de saúde privado/plano de saúde ",
+      "4": "Corpo de Bombeiros",
+      "5": "Outro",
+      "<None>": "Não aplicável"
+    },
+    "J053": {
+      "1": "Sim",
+      "2": "Não  "
+    },
+    "J054": {
+      "1": "Acupuntura",
+      "2": "Homeopatia",
+      "3": "Plantas medicinais e fitoterapia",
+      "4": "Outro ",
+      "<None>": "Não aplicável"
+    },
+    "J055": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "J056": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "J057": {
+      "1": "Sim",
+      "2": "Não",
+      "3": "Não sabe",
+      "<None>": "Não aplicável"
+    },
+    "J058": {
+      "1": "Sim",
+      "2": "Não"
+    },
+    "J059": {
+      "1": "Sim",
+      "2": "Não"
+    },
+    "J060": {
+      "1": "A própria pessoa",
+      "2": "Outro morador",
+      "3": "Não morador"
+    },
+    "K001": {
+      "1": "Não consegue",
+      "2": "Tem grande dificuldade",
+      "3": "Tem pequena dificuldade",
+      "4": "Não tem dificuldade ",
+      "<None>": "Não aplicável"
+    },
+    "K002": {
+      "1": "Sim",
+      "2": "Não, porque não precisa",
+      "3": "Não, porque não tem ajuda ",
+      "<None>": "Não aplicável"
+    },
+    "K003": {
+      "1": "Familiar que reside no domicílio e é remunerado para ajudar",
+      "2": "Familiar que reside no domicílio e não é remunerado para ajudar",
+      "3": "Familiar que não reside no domicílio e é remunerado para ajudar",
+      "4": "Familiar que não reside no domicílio e não é remunerado para ajudar",
+      "5": "Outra pessoa não familiar que não é remunerada para ajudar",
+      "6": "Cuidador contratado",
+      "7": "Empregada doméstica",
+      "<None>": "Não aplicável"
+    },
+    "K004": {
+      "1": "Não consegue",
+      "2": "Tem grande dificuldade",
+      "3": "Tem pequena dificuldade",
+      "4": "Não tem dificuldade  ",
+      "<None>": "Não aplicável"
+    },
+    "K005": {
+      "1": "Sim",
+      "2": "Não, porque não precisa",
+      "3": "Não, porque não tem ajuda ",
+      "<None>": "Não aplicável"
+    },
+    "K006": {
+      "1": "Familiar que reside no domicílio e é remunerado para ajudar",
+      "2": "Familiar que reside no domicílio e não é remunerado para ajudar",
+      "3": "Familiar que não reside no domicílio e é remunerado para ajudar",
+      "4": "Familiar que não reside no domicílio e não é remunerado para ajudar",
+      "5": "Outra pessoa não familiar que não é remunerada para ajudar",
+      "6": "Cuidador contratado",
+      "7": "Empregada doméstica",
+      "<None>": "Não aplicável"
+    },
+    "K007": {
+      "1": "Não consegue",
+      "2": "Tem grande dificuldade",
+      "3": "Tem pequena dificuldade",
+      "4": "Não tem dificuldade  ",
+      "<None>": "Não aplicável"
+    },
+    "K008": {
+      "1": "Sim",
+      "2": "Não, porque não precisa",
+      "3": "Não, porque não tem ajuda ",
+      "<None>": "Não aplicável"
+    },
+    "K009": {
+      "1": "Familiar que reside no domicílio e é remunerado para ajudar",
+      "2": "Familiar que reside no domicílio e não é remunerado para ajudar",
+      "3": "Familiar que não reside no domicílio e é remunerado para ajudar",
+      "4": "Familiar que não reside no domicílio e não é remunerado para ajudar",
+      "5": "Outra pessoa não familiar que não é remunerada para ajudar",
+      "6": "Cuidador contratado",
+      "7": "Empregada doméstica",
+      "<None>": "Não aplicável"
+    },
+    "K010": {
+      "1": "Não consegue",
+      "2": "Tem grande dificuldade",
+      "3": "Tem pequena dificuldade",
+      "4": "Não tem dificuldade  ",
+      "<None>": "Não aplicável"
+    },
+    "K011": {
+      "1": "Sim",
+      "2": "Não, porque não precisa",
+      "3": "Não, porque não tem ajuda ",
+      "<None>": "Não aplicável"
+    },
+    "K012": {
+      "1": "Familiar que reside no domicílio e é remunerado para ajudar",
+      "2": "Familiar que reside no domicílio e não é remunerado para ajudar",
+      "3": "Familiar que não reside no domicílio e é remunerado para ajudar",
+      "4": "Familiar que não reside no domicílio e não é remunerado para ajudar",
+      "5": "Outra pessoa não familiar que não é remunerada para ajudar",
+      "6": "Cuidador contratado",
+      "7": "Empregada doméstica",
+      "<None>": "Não aplicável"
+    },
+    "K013": {
+      "1": "Não consegue",
+      "2": "Tem grande dificuldade",
+      "3": "Tem pequena dificuldade",
+      "4": "Não tem dificuldade  ",
+      "<None>": "Não aplicável"
+    },
+    "K014": {
+      "1": "Sim",
+      "2": "Não, porque não precisa",
+      "3": "Não, porque não tem ajuda ",
+      "<None>": "Não aplicável"
+    },
+    "K015": {
+      "1": "Familiar que reside no domicílio e é remunerado para ajudar",
+      "2": "Familiar que reside no domicílio e não é remunerado para ajudar",
+      "3": "Familiar que não reside no domicílio e é remunerado para ajudar",
+      "4": "Familiar que não reside no domicílio e não é remunerado para ajudar",
+      "5": "Outra pessoa não familiar que não é remunerada para ajudar",
+      "6": "Cuidador contratado",
+      "7": "Empregada doméstica",
+      "<None>": "Não aplicável"
+    },
+    "K016": {
+      "1": "Não consegue",
+      "2": "Tem grande dificuldade",
+      "3": "Tem pequena dificuldade",
+      "4": "Não tem dificuldade  ",
+      "<None>": "Não aplicável"
+    },
+    "K017": {
+      "1": "Sim",
+      "2": "Não, porque não precisa",
+      "3": "Não, porque não tem ajuda ",
+      "<None>": "Não aplicável"
+    },
+    "K018": {
+      "1": "Familiar que reside no domicílio e é remunerado para ajudar",
+      "2": "Familiar que reside no domicílio e não é remunerado para ajudar",
+      "3": "Familiar que não reside no domicílio e é remunerado para ajudar",
+      "4": "Familiar que não reside no domicílio e não é remunerado para ajudar",
+      "5": "Outra pessoa não familiar que não é remunerada para ajudar",
+      "6": "Cuidador contratado",
+      "7": "Empregada doméstica",
+      "<None>": "Não aplicável"
+    },
+    "K019": {
+      "1": "Não consegue",
+      "2": "Tem grande dificuldade",
+      "3": "Tem pequena dificuldade",
+      "4": "Não tem dificuldade  ",
+      "<None>": "Não aplicável"
+    },
+    "K020": {
+      "1": "Sim",
+      "2": "Não, porque não precisa",
+      "3": "Não, porque não tem ajuda ",
+      "<None>": "Não aplicável"
+    },
+    "K021": {
+      "1": "Familiar que reside no domicílio e é remunerado para ajudar",
+      "2": "Familiar que reside no domicílio e não é remunerado para ajudar",
+      "3": "Familiar que não reside no domicílio e é remunerado para ajudar",
+      "4": "Familiar que não reside no domicílio e não é remunerado para ajudar",
+      "5": "Outra pessoa não familiar que não é remunerada para ajudar",
+      "6": "Cuidador contratado",
+      "7": "Empregada doméstica",
+      "<None>": "Não aplicável"
+    },
+    "K022": {
+      "1": "Não consegue",
+      "2": "Tem grande dificuldade",
+      "3": "Tem pequena dificuldade",
+      "4": "Não tem dificuldade  ",
+      "<None>": "Não aplicável"
+    },
+    "K023": {
+      "1": "Sim",
+      "2": "Não, porque não precisa",
+      "3": "Não, porque não tem ajuda ",
+      "<None>": "Não aplicável"
+    },
+    "K024": {
+      "1": "Familiar que reside no domicílio e é remunerado para ajudar",
+      "2": "Familiar que reside no domicílio e não é remunerado para ajudar",
+      "3": "Familiar que não reside no domicílio e é remunerado para ajudar",
+      "4": "Familiar que não reside no domicílio e não é remunerado para ajudar",
+      "5": "Outra pessoa não familiar que não é remunerada para ajudar",
+      "6": "Cuidador contratado",
+      "7": "Empregada doméstica",
+      "<None>": "Não aplicável"
+    },
+    "K025": {
+      "1": "Não consegue",
+      "2": "Tem grande dificuldade",
+      "3": "Tem pequena dificuldade",
+      "4": "Não tem dificuldade  ",
+      "<None>": "Não aplicável"
+    },
+    "K026": {
+      "1": "Sim",
+      "2": "Não, porque não precisa",
+      "3": "Não, porque não tem ajuda ",
+      "<None>": "Não aplicável"
+    },
+    "K027": {
+      "1": "Familiar que reside no domicílio e é remunerado para ajudar",
+      "2": "Familiar que reside no domicílio e não é remunerado para ajudar",
+      "3": "Familiar que não reside no domicílio e é remunerado para ajudar",
+      "4": "Familiar que não reside no domicílio e não é remunerado para ajudar",
+      "5": "Outra pessoa não familiar que não é remunerada para ajudar",
+      "6": "Cuidador contratado",
+      "7": "Empregada doméstica",
+      "<None>": "Não aplicável"
+    },
+    "K028": {
+      "1": "Não consegue",
+      "2": "Tem grande dificuldade",
+      "3": "Tem pequena dificuldade",
+      "4": "Não tem dificuldade  ",
+      "5": "Não faz uso de medicamentos",
+      "<None>": "Não aplicável"
+    },
+    "K029": {
+      "1": "Sim",
+      "2": "Não, porque não precisa",
+      "3": "Não, porque não tem ajuda ",
+      "<None>": "Não aplicável"
+    },
+    "K030": {
+      "1": "Familiar que reside no domicílio e é remunerado para ajudar",
+      "2": "Familiar que reside no domicílio e não é remunerado para ajudar",
+      "3": "Familiar que não reside no domicílio e é remunerado para ajudar",
+      "4": "Familiar que não reside no domicílio e não é remunerado para ajudar",
+      "5": "Outra pessoa não familiar que não é remunerada para ajudar",
+      "6": "Cuidador contratado",
+      "7": "Empregada doméstica",
+      "<None>": "Não aplicável"
+    },
+    "K031": {
+      "1": "Não consegue",
+      "2": "Tem grande dificuldade",
+      "3": "Tem pequena dificuldade",
+      "4": "Não tem dificuldade  ",
+      "<None>": "Não aplicável"
+    },
+    "K032": {
+      "1": "Sim",
+      "2": "Não, porque não precisa",
+      "3": "Não, porque não tem ajuda ",
+      "<None>": "Não aplicável"
+    },
+    "K033": {
+      "1": "Familiar que reside no domicílio e é remunerado para ajudar",
+      "2": "Familiar que reside no domicílio e não é remunerado para ajudar",
+      "3": "Familiar que não reside no domicílio e é remunerado para ajudar",
+      "4": "Familiar que não reside no domicílio e não é remunerado para ajudar",
+      "5": "Outra pessoa não familiar que não é remunerada para ajudar",
+      "6": "Cuidador contratado",
+      "7": "Empregada doméstica",
+      "<None>": "Não aplicável"
+    },
+    "K034": {
+      "1": "Não consegue",
+      "2": "Tem grande dificuldade",
+      "3": "Tem pequena dificuldade",
+      "4": "Não tem dificuldade  ",
+      "<None>": "Não aplicável"
+    },
+    "K035": {
+      "1": "Sim",
+      "2": "Não, porque não precisa",
+      "3": "Não, porque não tem ajuda ",
+      "<None>": "Não aplicável"
+    },
+    "K036": {
+      "1": "Familiar que reside no domicílio e é remunerado para ajudar",
+      "2": "Familiar que reside no domicílio e não é remunerado para ajudar",
+      "3": "Familiar que não reside no domicílio e é remunerado para ajudar",
+      "4": "Familiar que não reside no domicílio e não é remunerado para ajudar",
+      "5": "Outra pessoa não familiar que não é remunerada para ajudar",
+      "6": "Cuidador contratado",
+      "7": "Empregada doméstica",
+      "<None>": "Não aplicável"
+    },
+    "K039": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "K040": {
+      "1": "Menos de 1 ano atrás",
+      "2": "De 1 ano a menos de 2 anos",
+      "3": "De 2 anos a menos de 3 anos",
+      "4": "3 anos ou mais atrás",
+      "5": "Nunca fez ",
+      "<None>": "Não aplicável"
+    },
+    "K041": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "K042": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "K043": {
+      "1": "Sim",
+      "2": "Não",
+      "3": "Não sabe",
+      "<None>": "Não aplicável"
+    },
+    "K044": {
+      "1": "Há menos de 6 meses",
+      "2": "Entre 6 meses e menos de 1 ano",
+      "3": "Entre 1 ano e menos de 2 anos",
+      "4": "Entre 2 e 3 anos atrás",
+      "5": "Mais de 3 anos atrás",
+      "6": "Nunca fez",
+      "<None>": "Não aplicável"
+    },
+    "K045": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "K046": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "K047": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "K048": {
+      "1": "Está marcada, mas ainda não fez",
+      "2": "Não achou necessário",
+      "3": "Não conseguiu vaga",
+      "4": "Estava com dificuldades financeiras",
+      "5": "O serviço de saúde era muito distante",
+      "6": "O plano de saúde não cobria a cirurgia",
+      "7": "Não sabia onde realizar a cirurgia",
+      "8": "Não tinha quem o(a) acompanhasse",
+      "9": "Outro",
+      "<None>": "Não aplicável"
+    },
+    "K049": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "K050": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "K051": {
+      "1": "Sim",
+      "2": "Não",
+      "3": "Não sabe",
+      "<None>": "Não aplicável"
+    },
+    "K052": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "K053": {
+      "01": "Raramente fica gripado(a)",
+      "02": "Não sabia que era necessário tomar vacina contra gripe",
+      "03": "Não sabia onde tomar a vacina",
+      "04": "Tem medo da reação",
+      "05": "Tem medo de injeção",
+      "06": "Não tinha quem o(a) acompanhasse ao serviço de saúde",
+      "07": "Estava com dificuldades financeiras",
+      "08": "Teve dificuldades de transporte",
+      "09": "O serviço de saúde era muito distante",
+      "10": "A vacina não estava disponível no serviço que procurou",
+      "11": "Contra-indicação médica",
+      "12": "Não acredita que a vacina protege contra gripe",
+      "13": "Outro",
+      "<None>": "Não aplicável"
+    },
+    "K054": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "K056": {
+      "1": "Sim, sem colocação de prótese ",
+      "2": "Sim, com colocação de prótese",
+      "3": "Não ",
+      "<None>": "Não aplicável"
+    },
+    "K057": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "K058": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "K059": {
+      "1": "Sim",
+      "2": "Não",
+      "3": "Não sabe",
+      "<None>": "Não aplicável"
+    },
+    "K06001": {
+      "00": "Nenhuma",
+      "01 a 23": "Horas",
+      "<None>": "Não aplicável"
+    },
+    "K06002": {
+      "00": "Nenhum",
+      "01 a 31": "Dias",
+      "<None>": "Não aplicável"
+    },
+    "K06003": {
+      "00": "Nenhum",
+      "01 a 99": "Meses",
+      "<None>": "Não aplicável"
+    },
+    "K06101": {
+      "00": "Nenhum",
+      "01 a 31": "Dias",
+      "<None>": "Não aplicável"
+    },
+    "K06102": {
+      "00": "Nenhum",
+      "01 a 99": "Meses",
+      "<None>": "Não aplicável"
+    },
+    "K062": {
+      "1": "A própria pessoa",
+      "2": "Outro morador",
+      "3": "Não morador",
+      "<None>": "Não aplicável"
+    },
+    "L00201": {
+      "00 a 30": "Dias",
+      "00": "Nunca recebeu (para os casos onde L00201=00, L00202=00 e L00203=00).",
+      "<None>": "Não aplicável"
+    },
+    "L00202": {
+      "00 a 11": "Meses",
+      "00": "Nunca recebeu (para os casos onde L00201=00, L00202=00 e L00203=00).",
+      "<None>": "Não aplicável"
+    },
+    "L00203": {
+      "00 a 01": "Ano",
+      "00": "Nunca recebeu (para os casos onde L00201=00, L00202=00 e L00203=00).",
+      "<None>": "Não aplicável"
+    },
+    "L003": {
+      "01": "Unidade básica de saúde (posto ou centro de saúde ou unidade de saúde da família) ",
+      "02": "Centro de Especialidades, Policlínica pública ou PAM – Posto de Assistência Médica",
+      "03": "UPA (Unidade de Pronto Atendimento)",
+      "04": "Outro tipo de Pronto Atendimento Público (24 horas)",
+      "05": "Pronto-socorro ou emergência de hospital público",
+      "06": "Hospital público/ambulatório",
+      "07": "Consultório particular ou Clínica privada",
+      "08": "Ambulatório ou consultório de empresa ou sindicato",
+      "09": "Pronto-atendimento ou emergência de hospital privado",
+      "10": "Visita domiciliar de médico particular ",
+      "11": "Visita domiciliar da equipe de saúde da família ",
+      "12": "Outro ",
+      "<None>": "Não aplicável"
+    },
+    "L004": {
+      "1": "Unidade de saúde pública (posto ou centro de saúde ou unidade de saúde da família)",
+      "2": "Centro de Especialidades, Policlínica pública ou PAM – Posto de Assistência Médica",
+      "3": "Hospital público/ambulatório",
+      "4": "Consultório particular ou Clínica privada",
+      "5": "Ambulatório ou consultório de empresa ou sindicato",
+      "6": "Outro ",
+      "7": "Não faz acompanhamento",
+      "<None>": "Não aplicável"
+    },
+    "L005": {
+      "1": "Sim",
+      "2": "Não",
+      "3": "Não sabe",
+      "<None>": "Não aplicável"
+    },
+    "L006": {
+      "1": "Na primeira semana de vida",
+      "2": "Após a primeira semana e antes do primeiro mês de vida",
+      "3": "Após o primeiro mês de vida",
+      "4": "Não sabe ",
+      "<None>": "Não aplicável"
+    },
+    "L007": {
+      "1": "Em 15 dias ou menos",
+      "2": "Entre 16 dias e menos de 1 mês",
+      "3": "Entre 1 mês e menos de 2 meses",
+      "4": "Entre 2 meses e menos de 3 meses",
+      "5": "Há 3 meses ou mais",
+      "6": "Não recebeu",
+      "<None>": "Não aplicável"
+    },
+    "L008": {
+      "1": "Sim",
+      "2": "Não",
+      "3": "Não sabe",
+      "<None>": "Não aplicável"
+    },
+    "L009": {
+      "1": "Na primeira semana de vida",
+      "2": "Após a primeira semana e antes do primeiro mês de vida",
+      "3": "Após o primeiro mês de vida",
+      "4": "Não sabe ",
+      "<None>": "Não aplicável"
+    },
+    "L010": {
+      "1": "Em 15 dias ou menos",
+      "2": "Entre 16 dias e menos de 1 mês",
+      "3": "Entre 1 mês e menos de 2 meses",
+      "4": "Entre 2 meses e menos de 3 meses",
+      "5": "Há 3 meses ou mais",
+      "6": "Não recebeu",
+      "<None>": "Não aplicável"
+    },
+    "L011": {
+      "1": "Sim",
+      "2": "Não",
+      "3": "Não sabe",
+      "<None>": "Não aplicável"
+    },
+    "L012": {
+      "1": "Na primeira semana de vida",
+      "2": "Após a primeira semana e antes do primeiro mês de vida",
+      "3": "Após o primeiro mês de vida",
+      "4": "Não sabe ",
+      "<None>": "Não aplicável"
+    },
+    "L013": {
+      "1": "Em 15 dias ou menos",
+      "2": "Entre 16 dias e menos de 1 mês",
+      "3": "Entre 1 mês e menos de 2 meses",
+      "4": "Entre 2 meses e menos de 3 meses",
+      "5": "Há 3 meses ou mais",
+      "6": "Não recebeu",
+      "<None>": "Não aplicável"
+    },
+    "L014": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "L015": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "L01613": {
+      "00": "Não tomou",
+      "01 a 31": "Dia",
+      "<None>": "Não aplicável"
+    },
+    "L01614": {
+      "00": "Não tomou",
+      "01 a 12": "Mês",
+      "<None>": "Não aplicável"
+    },
+    "L01615": {
+      "0000": "Não tomou",
+      "2011 a 2013": "Ano",
+      "<None>": "Não aplicável"
+    },
+    "L01616": {
+      "00": "Não tomou",
+      "01 a 31": "Dia",
+      "<None>": "Não aplicável"
+    },
+    "L01617": {
+      "00": "Não tomou",
+      "01 a 12": "Mês",
+      "<None>": "Não aplicável"
+    },
+    "L01618": {
+      "0000": "Não tomou",
+      "2011 a 2014": "Ano",
+      "<None>": "Não aplicável"
+    },
+    "L01619": {
+      "00": "Não tomou",
+      "01 a 31": "Dia",
+      "<None>": "Não aplicável"
+    },
+    "L01620": {
+      "00": "Não tomou",
+      "01 a 12": "Mês",
+      "<None>": "Não aplicável"
+    },
+    "L01621": {
+      "0000": "Não tomou",
+      "2011 a 2014": "Ano",
+      "<None>": "Não aplicável"
+    },
+    "L01622": {
+      "00": "Não tomou",
+      "01 a 31": "Dia",
+      "<None>": "Não aplicável"
+    },
+    "L01623": {
+      "00": "Não tomou",
+      "01 a 12": "Mês",
+      "<None>": "Não aplicável"
+    },
+    "L01624": {
+      "0000": "Não tomou",
+      "2011 a 2014": "Ano",
+      "<None>": "Não aplicável"
+    },
+    "L01701": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "L01702": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "L01703": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "L01704": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "L01705": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "L01706": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "L01707": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "L01708": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "L01709": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "L01710": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "L01711": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "L01712": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "L01713": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "L01714": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "L01715": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "L01716": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "L018": {
+      "1": "Sim ",
+      "2": "Não, somente leite de peito",
+      "<None>": "Não aplicável"
+    },
+    "L019": {
+      "1": "Sim ",
+      "2": "Não",
+      "3": "Recebeu um composto vitamínico, mas não sabe se contém Sulfato Ferroso",
+      "<None>": "Não aplicável"
+    },
+    "L020": {
+      "1": "Mãe ou responsável",
+      "2": "Outro morador",
+      "3": "Não morador",
+      "<None>": "Não aplicável"
+    },
+    "M001": {
+      "1": "Realizada",
+      "2": "Recusa",
+      "3": "Morador não encontrado",
+      "<None>": "Não aplicável"
+    },
+    "M002": {
+      "1": "Mãe moradora ",
+      "2": "Mãe não moradora",
+      "3": "Não sabe  ",
+      "<None>": "Não aplicável"
+    },
+    "M003": {
+      "1": "O próprio selecionado",
+      "2": "Outro morador do domicílio",
+      "3": "Outra pessoa não moradora",
+      "<None>": "Não aplicável"
+    },
+    "M005": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "M006": {
+      "1": "Menos de 1 vez por mês",
+      "2": "1 a 3 vezes por mês",
+      "3": "1 vez por semana ",
+      "4": "2 a 3 vezes por semana",
+      "5": "4 vezes por semana",
+      "6": "5 vezes ou mais por semana",
+      "<None>": "Não aplicável"
+    },
+    "M007": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "M008": {
+      "1": "Menos de 1 vez por mês",
+      "2": "1 a 3 vezes por mês",
+      "3": "1 vez por semana ",
+      "4": "2 a 3 vezes por semana",
+      "5": "4 vezes por semana",
+      "6": "5 vezes ou mais por semana",
+      "<None>": "Não aplicável"
+    },
+    "M009": {
+      "1": "Fechados",
+      "2": "Fechados",
+      "3": "Ambos ",
+      "<None>": "Não aplicável"
+    },
+    "M010": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "M01101": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "M01102": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "M01103": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "M01104": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "M01105": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "M01106": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "M01107": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "M01108": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "M01301": {
+      "00": "-",
+      "01 a 80": "Anos",
+      "<None>": "Não aplicável"
+    },
+    "M01302": {
+      "00": "-",
+      "01 a 11": "Meses",
+      "<None>": "Não aplicável"
+    },
+    "M01303": {
+      "00": "-",
+      "01 a 30": "Dias",
+      "<None>": "Não aplicável"
+    },
+    "M014": {
+      "00": "Nenhum",
+      "01 a 98": "Pessoas",
+      "<None>": "Não aplicável"
+    },
+    "M015": {
+      "00": "Nenhum",
+      "01 a 98": "Pessoas",
+      "<None>": "Não aplicável"
+    },
+    "M016": {
+      "1": "Mais de uma vez por semana",
+      "2": "Uma vez por semana",
+      "3": "De 2 a 3 vezes por mês",
+      "4": "Algumas vezes no ano",
+      "5": "Uma vez no ano",
+      "6": "Nenhuma vez",
+      "<None>": "Não aplicável"
+    },
+    "M017": {
+      "1": "Mais de uma vez por semana",
+      "2": "Uma vez por semana",
+      "3": "De 2 a 3 vezes por mês",
+      "4": "Algumas vezes no ano",
+      "5": "Uma vez no ano",
+      "6": "Nenhuma vez",
+      "<None>": "Não aplicável"
+    },
+    "M018": {
+      "1": "Mais de uma vez por semana",
+      "2": "Uma vez por semana",
+      "3": "De 2 a 3 vezes por mês",
+      "4": "Algumas vezes no ano",
+      "5": "Uma vez no ano",
+      "6": "Nenhuma vez",
+      "<None>": "Não aplicável"
+    },
+    "M019": {
+      "1": "Mais de uma vez por semana",
+      "2": "Uma vez por semana",
+      "3": "De 2 a 3 vezes por mês",
+      "4": "Algumas vezes no ano",
+      "5": "Uma vez no ano",
+      "6": "Nenhuma vez",
+      "<None>": "Não aplicável"
+    },
+    "N001": {
+      "1": "Muito boa",
+      "2": "Boa",
+      "3": "Regular         ",
+      "4": "Ruim",
+      "5": "Muito ruim",
+      "<None>": "Não aplicável"
+    },
+    "N002": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "N003": {
+      "1": "Nenhum",
+      "2": "Leve        ",
+      "3": "Médio       ",
+      "4": "Intenso",
+      "5": "Não consegue",
+      "<None>": "Não aplicável"
+    },
+    "N004": {
+      "1": "Sim",
+      "2": "Não",
+      "3": "Não se aplica/Morador selecionado não anda",
+      "<None>": "Não aplicável"
+    },
+    "N005": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "N006": {
+      "1": "Para ou diminui a velocidade",
+      "2": "Continua após tomar um remédio que dissolve na boca para aliviar a dor",
+      "3": "Continua caminhando",
+      "<None>": "Não aplicável"
+    },
+    "N007": {
+      "1": "É aliviada em 10 minutos ou menos",
+      "2": "É aliviada em mais de 10 minutos",
+      "3": "Não é aliviada",
+      "<None>": "Não aplicável"
+    },
+    "N008": {
+      "1": "Acima ou no meio do peito (posição a)",
+      "2": "Abaixo do peito (b)",
+      "3": "Braço esquerdo (c)",
+      "4": "Outro",
+      "<None>": "Não aplicável"
+    },
+    "N010": {
+      "1": "Nenhum dia",
+      "2": "Menos da metade dos dias",
+      "3": "Mais da metade dos dias ",
+      "4": "Quase todos os dias",
+      "<None>": "Não aplicável"
+    },
+    "N011": {
+      "1": "Nenhum dia",
+      "2": "Menos da metade dos dias",
+      "3": "Mais da metade dos dias ",
+      "4": "Quase todos os dias",
+      "<None>": "Não aplicável"
+    },
+    "N012": {
+      "1": "Nenhum dia",
+      "2": "Menos da metade dos dias",
+      "3": "Mais da metade dos dias ",
+      "4": "Quase todos os dias",
+      "<None>": "Não aplicável"
+    },
+    "N013": {
+      "1": " Nenhum dia",
+      "2": "Menos da metade dos dias",
+      "3": "Mais da metade dos dias",
+      "4": "Quase todos dias",
+      "<None>": "Não aplicável"
+    },
+    "N014": {
+      "1": " Nenhum dia",
+      "2": "Menos da metade dos dias",
+      "3": "Mais da metade dos dias",
+      "4": "Quase todos dias",
+      "<None>": "Não aplicável"
+    },
+    "N015": {
+      "1": " Nenhum dia",
+      "2": "Menos da metade dos dias",
+      "3": "Mais da metade dos dias",
+      "4": "Quase todos dias",
+      "<None>": "Não aplicável"
+    },
+    "N016": {
+      "1": " Nenhum dia",
+      "2": "Menos da metade dos dias",
+      "3": "Mais da metade dos dias",
+      "4": "Quase todos dias",
+      "<None>": "Não aplicável"
+    },
+    "N017": {
+      "1": " Nenhum dia",
+      "2": "Menos da metade dos dias",
+      "3": "Mais da metade dos dias",
+      "4": "Quase todos dias",
+      "<None>": "Não aplicável"
+    },
+    "N018": {
+      "1": " Nenhum dia",
+      "2": "Menos da metade dos dias",
+      "3": "Mais da metade dos dias",
+      "4": "Quase todos dias",
+      "<None>": "Não aplicável"
+    },
+    "N019": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "N020": {
+      "1": "Nenhum",
+      "2": "Leve",
+      "3": "Médio",
+      "4": "Intenso",
+      "5": "Não consegue",
+      "<None>": "Não aplicável"
+    },
+    "N021": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "N022": {
+      "1": "Nenhum",
+      "2": "Leve",
+      "3": "Médio",
+      "4": "Intenso",
+      "5": "Não consegue",
+      "<None>": "Não aplicável"
+    },
+    "N023": {
+      "1": "Nenhum",
+      "2": "Leve",
+      "3": "Médio",
+      "4": "Intenso",
+      "5": "Não consegue",
+      "<None>": "Não aplicável"
+    },
+    "O001": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "O002": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "O003": {
+      "1": "Sempre",
+      "2": "Quase sempre",
+      "3": "Às vezes    ",
+      "4": "Raramente",
+      "5": "Nunca",
+      "<None>": "Não aplicável"
+    },
+    "O004": {
+      "1": "Nunca anda no banco da frente",
+      "2": "Sempre usa cinto",
+      "3": "Quase sempre usa cinto",
+      "4": "Às vezes usa cinto           ",
+      "5": "Raramente usa cinto",
+      "6": "Nunca usa cinto",
+      "<None>": "Não aplicável"
+    },
+    "O005": {
+      "1": "Nunca anda no banco de trás",
+      "2": "Sempre usa cinto",
+      "3": "Quase sempre usa cinto",
+      "4": "Às vezes usa cinto         ",
+      "5": "Raramente usa cinto",
+      "6": "Nunca usa cinto",
+      "<None>": "Não aplicável"
+    },
+    "O006": {
+      "1": "Sempre",
+      "2": "Quase sempre",
+      "3": "Às vezes    ",
+      "4": "Raramente   ",
+      "5": "Nunca",
+      "<None>": "Não aplicável"
+    },
+    "O007": {
+      "1": "Sempre usa capacete",
+      "2": "Quase sempre usa capacete",
+      "3": "Às vezes usa capacete    ",
+      "4": "Raramente usa capacete",
+      "5": "Nunca usa capacete",
+      "<None>": "Não aplicável"
+    },
+    "O008": {
+      "1": "Nunca anda como passageiro de motocicleta",
+      "2": "Sempre usa capacete",
+      "3": "Quase sempre usa capacete                ",
+      "4": "Às vezes usa capacete",
+      "5": "Raramente usa capacete",
+      "6": "Nunca usa capacete",
+      "<None>": "Não aplicável"
+    },
+    "O009": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "O00901": {
+      "01 a 99": "Não",
+      "<None>": "Não aplicável"
+    },
+    "O010": {
+      "1": "Sim, quando estava trabalhando ",
+      "2": "Sim, quando estava indo ou voltando do trabalho ",
+      "3": "Não",
+      "<None>": "Não aplicável"
+    },
+    "O011": {
+      "01": "Condutor(a) de carro/van",
+      "02": "Condutor(a) de ônibus",
+      "03": "Condutor(a) de caminhão",
+      "04": "Condutor(a) de motocicleta",
+      "05": "Condutor(a) de bicicleta",
+      "06": "Passageiro(a) de carro/van             ",
+      "07": "Passageiro(a) de ônibus",
+      "08": "Passageiro(a) de caminhão",
+      "09": "Passageiro(a) de motocicleta",
+      "10": "Passageiro(a) de bicicleta",
+      "11": "Pedestre",
+      "12": "Outro",
+      "<None>": "Não aplicável"
+    },
+    "O012": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "O013": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "O014": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "O015": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "O016": {
+      "01": "No local do acidente           ",
+      "02": "Unidade básica de saúde (posto ou centro de saúde ou unidade de saúde da família) ",
+      "03": "Centro de Especialidades, Policlínica pública ou PAM – Posto de Assistência Médica",
+      "04": "UPA (Unidade de Pronto Atendimento)",
+      "05": "Outro tipo de Pronto Atendimento Público (24 horas)                               ",
+      "06": "Pronto-socorro ou emergência de hospital público                                  ",
+      "07": "Hospital público/ambulatório                                                   ",
+      "08": "Consultório particular ou Clínica privada ",
+      "09": "Ambulatório ou consultório de empresa ou sindicato",
+      "10": "Pronto-atendimento ou emergência de hospital privado",
+      "11": "No domicílio, com médico particular ",
+      "12": "No domicílio, com médico da equipe de saúde da família",
+      "13": "Outro",
+      "<None>": "Não aplicável"
+    },
+    "O017": {
+      "1": "Ambulância/ Resgate do SAMU",
+      "2": "Ambulância/ Resgate dos Bombeiros",
+      "3": "Motos do SAMU                                                 ",
+      "4": "Ambulância/ Resgate do setor privado (particular ou convênio)",
+      "5": "Ambulância/ Resgate da concessionária da rodovia",
+      "6": "Outro",
+      "<None>": "Não aplicável"
+    },
+    "O01801": {
+      "00": "-",
+      "01 a 99": "Horas",
+      "<None>": "Não aplicável"
+    },
+    "O01802": {
+      "00": "-",
+      "01 a 59": "Minutos",
+      "<None>": "Não aplicável"
+    },
+    "O019": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "O020": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "O021": {
+      "1": "Sim",
+      "2": "Não",
+      "3": "Não se aplica / Pessoas que não trabalharam nos últimos 12 meses.",
+      "<None>": "Não aplicável"
+    },
+    "O02101": {
+      "01 a 99": "Acidentes",
+      "<None>": "Não aplicável"
+    },
+    "O022": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "O023": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "O024": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "O025": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "O027": {
+      "1": "Física",
+      "2": "Sexual",
+      "3": "Psicológica",
+      "4": "Outro",
+      "<None>": "Não aplicável"
+    },
+    "O028": {
+      "1": "Com arma de fogo (revólver, escopeta, pistola)",
+      "2": "Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",
+      "3": "Com objeto contundente (pau, cassetete, barra de ferro, pedra)",
+      "4": "Com força corporal, espancamento (tapa, murro, empurrão)",
+      "5": "Por meio de palavras ofensivas, xingamentos ou palavrões",
+      "6": "Outro",
+      "<None>": "Não aplicável"
+    },
+    "O029": {
+      "1": "Residência",
+      "2": "Trabalho",
+      "3": "Escola/Faculdade ou similar",
+      "4": "Bar ou similar                 ",
+      "5": "Via pública",
+      "6": "Banco/Caixa eletrônico/Lotérica",
+      "7": "Outro",
+      "<None>": "Não aplicável"
+    },
+    "O030": {
+      "1": "Bandido, ladrão ou assaltante",
+      "2": "Agente legal público (policial/agente da lei)",
+      "3": "Outro",
+      "<None>": "Não aplicável"
+    },
+    "O031": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "O032": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "O033": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "O034": {
+      "01": "No local da violência",
+      "02": "Unidade básica de saúde (posto ou centro de saúde ou unidade de saúde da família)",
+      "03": "Centro de Especialidades, Policlínica pública ou PAM Posto de Assistência Médica",
+      "04": "UPA (Unidade de Pronto Atendimento)",
+      "05": "Outro tipo de Pronto Atendimento Público (24 horas)",
+      "06": "Pronto-socorro ou emergência de hospital público                              ",
+      "07": "Hospital público/ambulatório                                                   ",
+      "08": "Consultório particular ou Clínica privada                                                     ",
+      "09": "Ambulatório ou consultório de empresa ou sindicato",
+      "10": "Pronto-atendimento ou emergência de hospital privado",
+      "11": "No domicílio, com médico particular ",
+      "12": "No domicílio, com médico da equipe de saúde da família ",
+      "13": "Outro",
+      "<None>": "Não aplicável"
+    },
+    "O035": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "O036": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "O037": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "O038": {
+      "1": "Uma vez",
+      "2": "Duas vezes",
+      "3": "De três a seis vezes",
+      "4": "De sete a menos de 12 vezes   ",
+      "5": "Pelo menos uma vez por mês",
+      "6": "Pelo menos uma vez por semana",
+      "7": "Quase diariamente",
+      "<None>": "Não aplicável"
+    },
+    "O039": {
+      "1": "Física ",
+      "2": "Sexual",
+      "3": "Psicológica",
+      "4": "Outra ",
+      "<None>": "Não aplicável"
+    },
+    "O040": {
+      "1": "Com força corporal/espancamento (tapa, murro, beliscão, empurrão)",
+      "2": "Com arma de fogo (revólver, escopeta, pistola)",
+      "3": "Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)         ",
+      "4": "Com objeto contundente (pau, cassetete, barra de ferro, pedra)",
+      "5": "Com arremesso de substância/objeto quente ",
+      "6": "Com lançamento de objetos",
+      "7": "Com envenenamento",
+      "8": "Por meio de palavras ofensivas, xingamentos ou palavrões",
+      "9": "Outro ",
+      "<None>": "Não aplicável"
+    },
+    "O041": {
+      "1": "Residência",
+      "2": "Trabalho",
+      "3": "Escola / Faculdade ou similar",
+      "4": "Bar ou similar",
+      "5": "Via pública",
+      "6": "Outro",
+      "<None>": "Não aplicável"
+    },
+    "O042": {
+      "01": "Cônjuge, companheiro(a), namorado(a)",
+      "02": "Ex-cônjuge, ex-companheiro(a), ex-namorado(a)",
+      "03": "Pai/Mãe",
+      "04": "Padrasto/Madrasta",
+      "05": "Filho(a)",
+      "06": "Irmão(ã)                                     ",
+      "07": "Outro parente",
+      "08": "Amigos(as)/colegas",
+      "09": "Patrão/chefe",
+      "10": "Outra pessoa conhecida",
+      "<None>": "Não aplicável"
+    },
+    "O043": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "O044": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "O045": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "O046": {
+      "01": "No local da agressão",
+      "02": "Unidade básica de saúde (posto ou centro de saúde ou unidade de saúde da família) ",
+      "03": "Centro de Especialidades, Policlínica pública ou PAM Posto de Assistência Médica",
+      "04": "UPA (Unidade de Pronto Atendimento)",
+      "05": "Outro tipo de Pronto Atendimento Público (24 horas)",
+      "06": "Pronto-socorro ou emergência de hospital público",
+      "07": "Hospital público/ambulatório                                                   ",
+      "08": "Consultório particular ou Clínica privada ",
+      "09": "Ambulatório ou consultório de empresa ou sindicato",
+      "10": "Pronto-atendimento ou emergência de hospital privado",
+      "11": "No domicílio, com médico particular ",
+      "12": "No domicílio, com médico da equipe de saúde da família ",
+      "13": "Outro",
+      "<None>": "Não aplicável"
+    },
+    "O047": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "O048": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "P001": {
+      "1": "Sim",
+      "2": "Não sabe",
+      "<None>": "Não aplicável"
+    },
+    "P00101": {
+      "<None>": "Peso (kg)"
+    },
+    "P002": {
+      "1": "Menos de 1 semana ",
+      "2": "Entre 1 semana e menos de 1 mês",
+      "3": "Entre 1 mês a menos de 3 meses",
+      "4": "Entre 3 meses e menos de 6 meses",
+      "5": "Há 6 meses ou mais",
+      "6": "Nunca se pesou",
+      "<None>": "Não aplicável"
+    },
+    "P003": {
+      "1": "Sim",
+      "2": "Não lembra / Não sabe",
+      "<None>": "Não aplicável"
+    },
+    "P00301": {
+      "<None>": "Peso (kg)"
+    },
+    "P004": {
+      "1": "Sim",
+      "2": "Não sabe",
+      "<None>": "Não aplicável"
+    },
+    "P00401": {
+      "<None>": "Altura em cm"
+    },
+    "P005": {
+      "1": "Sim",
+      "2": "Não",
+      "3": "Não sabe",
+      "<None>": "Não aplicável"
+    },
+    "P006": {
+      "<None>": "Dias da semana"
+    },
+    "P007": {
+      "<None>": "Dias da semana"
+    },
+    "P008": {
+      "1": "1 vez por dia (no almoço ou no jantar)",
+      "2": "2 vezes por dia (no almoço e no jantar)",
+      "3": "3 vezes ou mais por dia",
+      "<None>": "Não aplicável"
+    },
+    "P009": {
+      "<None>": "Dias da semana"
+    },
+    "P010": {
+      "1": "1 vez por dia (no almoço ou no jantar)",
+      "2": "2 vezes por dia (no almoço e no jantar)",
+      "3": "3 vezes ou mais por dia",
+      "<None>": "Não aplicável"
+    },
+    "P011": {
+      "<None>": "Dias da semana"
+    },
+    "P012": {
+      "1": "Tirar o excesso de gordura visível",
+      "2": "Comer com a gordura               ",
+      "<None>": "Não aplicável"
+    },
+    "P013": {
+      "<None>": "Dias da semana"
+    },
+    "P014": {
+      "1": "Tirar a pele",
+      "2": "Comer com a pele",
+      "<None>": "Não aplicável"
+    },
+    "P015": {
+      "<None>": "Quantos dias da semana"
+    },
+    "P016": {
+      "<None>": "Quantos dias da semana"
+    },
+    "P017": {
+      "1": "1 copo",
+      "2": "2 copos ",
+      "3": "3 copos ou mais",
+      "<None>": "Não aplicável"
+    },
+    "P018": {
+      "<None>": "Quantos dias da semana"
+    },
+    "P019": {
+      "<None>": "Não aplicável"
+    },
+    "P020": {
+      "<None>": "Quantos dias da semana"
+    },
+    "P021": {
+      "1": "Normal",
+      "2": "Diet/Light/Zero ",
+      "3": "Ambos",
+      "<None>": "Não aplicável"
+    },
+    "P022": {
+      "1": "1 copo",
+      "2": "2 copos ",
+      "3": "3 copos ou mais",
+      "<None>": "Não aplicável"
+    },
+    "P023": {
+      "<None>": "Quantos dias da semana"
+    },
+    "P024": {
+      "1": "Integral",
+      "2": "Desnatado ou semidesnatado",
+      "3": "Os dois tipos",
+      "<None>": "Não aplicável"
+    },
+    "P025": {
+      "<None>": "Quantos dias da semana"
+    },
+    "P026": {
+      "<None>": "Quantos dias da semana"
+    },
+    "P02601": {
+      "1": "Muito alto",
+      "2": "Alto",
+      "3": "Adequado",
+      "4": "Baixo",
+      "5": "Muito baixo",
+      "<None>": "Não aplicável"
+    },
+    "P027": {
+      "1": "Não bebo nunca",
+      "2": "Menos de uma vez por mês",
+      "3": "Uma vez ou mais por mês",
+      "<None>": "Não aplicável"
+    },
+    "P028": {
+      "<None>": "Quantos dias da semana"
+    },
+    "P029": {
+      "<None>": "Doses"
+    },
+    "P030": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "P031": {
+      "<None>": "Anos"
+    },
+    "P032": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "P033": {
+      "1": "1 dia",
+      "2": "2 dias",
+      "3": "3 dias",
+      "4": "4 dias",
+      "5": "5 dias",
+      "6": "6 dias",
+      "7": "7 ou mais",
+      "<None>": "Não aplicável"
+    },
+    "P034": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "P035": {
+      "<None>": "Quantos dias da semana"
+    },
+    "P036": {
+      "01": "Caminhada (não vale para o trabalho)",
+      "02": "Caminhada em esteira",
+      "03": "Corrida/cooper",
+      "04": "Corrida em esteira",
+      "05": "Musculação",
+      "06": "Ginástica aeróbica/spinning/step/jump",
+      "07": "Hidroginástica",
+      "08": "Ginástica em geral/localizada/pilates/alongamento/ioga",
+      "09": "Natação",
+      "10": "Artes marciais e luta",
+      "11": "Bicicleta/ergomética",
+      "12": "Futebol",
+      "13": "Basquetebol",
+      "14": "Voleibol",
+      "15": "Tênis",
+      "16": "Dança (com o objetivo de praticar atividade física)",
+      "17": "Outro",
+      "<None>": "Não aplicável"
+    },
+    "P03701": {
+      "<None>": "Horas"
+    },
+    "P03702": {
+      "<None>": "Minutos"
+    },
+    "P038": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "P039": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "P03901": {
+      "<None>": "Dias"
+    },
+    "P03902": {
+      "<None>": "Horas"
+    },
+    "P03903": {
+      "<None>": "Minutos"
+    },
+    "P040": {
+      "1": "Sim, todo o trajeto",
+      "2": "Sim, parte do trajeto",
+      "3": "Não",
+      "<None>": "Não aplicável"
+    },
+    "P04101": {
+      "<None>": "Horas"
+    },
+    "P04102": {
+      "<None>": "Minutos"
+    },
+    "P042": {
+      "<None>": "Dias"
+    },
+    "P04301": {
+      "<None>": "Horas"
+    },
+    "P04302": {
+      "<None>": "Minutos"
+    },
+    "P044": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "P04401": {
+      "<None>": "Dias"
+    },
+    "P04403": {
+      "<None>": "Horas"
+    },
+    "P04404": {
+      "<None>": "Minutos"
+    },
+    "P045": {
+      "1": "Menos de 1 hora",
+      "2": "Entre 1 horas e menos de 2 horas",
+      "3": "Entre 2 horas e menos de 3 horas",
+      "4": "Entre 3 horas e menos de 4 horas",
+      "5": "Entre 4 horas e menos de 5 horas",
+      "6": "Entre 5 horas e menos de 6 horas",
+      "7": "6 horas ou mais",
+      "8": "Não assiste televisão",
+      "<None>": "Não aplicável"
+    },
+    "P046": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "P047": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "P048": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "P049": {
+      "1": "Não é perto do meu domicílio",
+      "2": "Não tenho tempo",
+      "3": "Não tenho interesse nas atividades oferecidas",
+      "4": "O espaço não é seguro/iluminado",
+      "5": "Foi impedido de participar",
+      "6": "Problemas de saúde ou incapacidade física",
+      "7": "Outro",
+      "<None>": "Não aplicável"
+    },
+    "P050": {
+      "1": "Sim, diariamente          ",
+      "2": "Sim, menos que diariamente",
+      "3": "Não fumo atualmente       ",
+      "<None>": "Não aplicável"
+    },
+    "P051": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "P052": {
+      "1": "Sim, diariamente          ",
+      "2": "Sim, menos que diariamente",
+      "3": "Não, nunca fumei          ",
+      "<None>": "Não aplicável"
+    },
+    "P053": {
+      "<None>": "Anos"
+    },
+    "P05401": {
+      "1": "Um ou mais por dia",
+      "2": "Um ou mais por semana",
+      "3": "Menos que uma vez por semana",
+      "4": "Menos do que um por mês",
+      "5": "Não fuma este produto",
+      "<None>": "Não aplicável"
+    },
+    "P05402": {
+      "<None>": "Número por dia"
+    },
+    "P05403": {
+      "<None>": "Número por semana"
+    },
+    "P05404": {
+      "1": "Um ou mais por dia",
+      "2": "Um ou mais por semana",
+      "3": "Menos que uma vez por semana",
+      "4": "Menos do que um por mês",
+      "5": "Não fuma este produto",
+      "<None>": "Não aplicável"
+    },
+    "P05405": {
+      "<None>": "Número por dia"
+    },
+    "P05406": {
+      "<None>": "Número por semana"
+    },
+    "P05407": {
+      "1": "Um ou mais por dia",
+      "2": "Um ou mais por semana",
+      "3": "Menos que uma vez por semana",
+      "4": "Menos do que um por mês",
+      "5": "Não fuma este produto",
+      "<None>": "Número por dia"
+    },
+    "P05408": {
+      "<None>": "Número por semana"
+    },
+    "P05409": {
+      "<None>": "Cigarros por semana"
+    },
+    "P05410": {
+      "1": "Um ou mais por dia",
+      "2": "Um ou mais por semana",
+      "3": "Menos que uma vez por semana",
+      "4": "Menos do que um por mês",
+      "5": "Não fuma este produto",
+      "<None>": "Não aplicável"
+    },
+    "P05411": {
+      "<None>": "Número por dia"
+    },
+    "P05412": {
+      "<None>": "Número por semana"
+    },
+    "P05413": {
+      "1": "Um ou mais por dia",
+      "2": "Um ou mais por semana",
+      "3": "Menos que uma vez por semana",
+      "4": "Menos do que um por mês",
+      "5": "Não fuma este produto",
+      "<None>": "Não aplicável"
+    },
+    "P05414": {
+      "<None>": "Número por dia"
+    },
+    "P05415": {
+      "<None>": "Número por semana"
+    },
+    "P05416": {
+      "1": "Um ou mais por dia",
+      "2": "Um ou mais por semana",
+      "3": "Menos que uma vez por semana",
+      "4": "Menos do que um por mês",
+      "5": "Não fuma este produto",
+      "<None>": "Não aplicável"
+    },
+    "P05417": {
+      "<None>": "Número por dia"
+    },
+    "P05418": {
+      "<None>": "Número por semana"
+    },
+    "P05419": {
+      "1": "Um ou mais por dia",
+      "2": "Um ou mais por semana",
+      "3": "Menos que uma vez por semana",
+      "4": "Menos do que um por mês",
+      "5": "Não fuma este produto",
+      "<None>": "Não aplicável"
+    },
+    "P05421": {
+      "<None>": "Número por dia"
+    },
+    "P05422": {
+      "<None>": "Número por semana"
+    },
+    "P055": {
+      "1": "Até 5 minutos",
+      "2": "De 6 a 30 minutos",
+      "3": "De 31 a 60 minutos",
+      "4": "Mais de 60 minutos",
+      "<None>": "Não aplicável"
+    },
+    "P056": {
+      "1": "Cigarros",
+      "2": "Maços",
+      "3": "Pacotes",
+      "4": "Nunca comprei cigarros para uso próprio",
+      "<None>": "Não aplicável"
+    },
+    "P05601": {
+      "<None>": "Cigarros"
+    },
+    "P05602": {
+      "<None>": "Maços"
+    },
+    "P05603": {
+      "<None>": "Cigarros"
+    },
+    "P05604": {
+      "<None>": "Pacotes"
+    },
+    "P05605": {
+      "<None>": "Maços"
+    },
+    "P057": {
+      "6 dígitos e 2 casas decimais": "Valor"
+    },
+    "P058": {
+      "1": "Um ou mais por dia     ",
+      "2": "Um ou mais por semana  ",
+      "3": "Menos que uma vez por semana",
+      "4": "Menos do que um por mês",
+      "5": "Não fuma este produto",
+      "6": "Não sabe",
+      "<None>": "Não aplicável"
+    },
+    "P05801": "",
+    "P05802": "",
+    "P05901": "",
+    "P05902": "",
+    "P05903": "",
+    "P05904": "",
+    "P060": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "P061": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "P062": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "P063": {
+      "01": "A consulta está marcada, mas ainda não foi realizada",
+      "02": "O tempo de espera no serviço de saúde é muito grande",
+      "03": "Não conseguiu marcar",
+      "04": "Não sabia quem procurar ou aonde ir",
+      "05": "Estava com dificuldades financeiras",
+      "06": "O plano de saúde não cobria o tratamento",
+      "07": "O serviço de saúde era muito distante",
+      "08": "Teve dificuldades de transporte",
+      "09": "O horário de funcionamento do serviço de saúde era incompatível com as atividades de trabalho ou domésticas",
+      "10": "Outro",
+      "<None>": "Não aplicável"
+    },
+    "P064": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "P065": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "P066": {
+      "1": "Sim",
+      "2": "Não",
+      "3": "Não sabe",
+      "<None>": "Não aplicável"
+    },
+    "P067": {
+      "1": "Sim, diariamente",
+      "2": "Sim, menos que diariamente",
+      "3": "Não usa",
+      "<None>": "Não aplicável"
+    },
+    "P068": {
+      "1": "Diariamente",
+      "2": "Semanalmente",
+      "3": "Mensalmente",
+      "4": "Menos que mensalmente",
+      "5": "Nunca",
+      "<None>": "Não aplicável"
+    },
+    "P069": {
+      "1": "Sim",
+      "2": "Não",
+      "3": "Não lembra",
+      "<None>": "Não aplicável"
+    },
+    "P07001": {
+      "1": "Sim",
+      "2": "Não",
+      "3": "Não lembra",
+      "<None>": "Não aplicável"
+    },
+    "P07002": {
+      "1": "Sim",
+      "2": "Não",
+      "3": "Não lembra",
+      "<None>": "Não aplicável"
+    },
+    "P07003": {
+      "1": "Sim",
+      "2": "Não",
+      "3": "Não lembra",
+      "<None>": "Não aplicável"
+    },
+    "P071": {
+      "1": "Sim",
+      "2": "Não",
+      "3": "Não vi nenhum maço de cigarros",
+      "<None>": "Não aplicável"
+    },
+    "P072": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q001": {
+      "1": "Há menos de 6 meses",
+      "2": "Entre 6 meses e menos de 1 ano",
+      "3": "Entre 1 ano e menos de 2 anos",
+      "4": "Entre 2 anos e menos de 3 anos",
+      "5": "3 anos ou mais",
+      "6": "Nunca",
+      "<None>": "Não aplicável"
+    },
+    "Q002": {
+      "1": "Sim            ",
+      "2": "Apenas durante a gravidez",
+      "3": "Não                      ",
+      "<None>": "Não aplicável"
+    },
+    "Q003": {
+      "<None>": "Anos"
+    },
+    "Q004": {
+      "1": "Sim            ",
+      "2": "Não, só quando tem algum problema",
+      "3": "Nunca vai",
+      "<None>": "Não aplicável"
+    },
+    "Q005": {
+      "1": "O serviço de saúde é muito distante",
+      "2": "O tempo de espera no serviço de saúde é muito grande",
+      "3": "Tem dificuldades financeiras",
+      "4": "Não acha necessário   ",
+      "5": "O horário de funcionamento do serviço de saúde é incompatível com suas atividades de trabalho ou domésticas",
+      "6": "O plano de saúde não cobre as consultas",
+      "7": "Não sabe quem procurar ou aonde ir",
+      "8": "Dificuldade de transporte",
+      "9": "Outro",
+      "<None>": "Não aplicável"
+    },
+    "Q006": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q007": {
+      "1": "Sim, todos ",
+      "2": "Sim, alguns",
+      "3": "Não, nenhum",
+      "<None>": "Não aplicável"
+    },
+    "Q008": {
+      "1": "Sim, todos ",
+      "2": "Sim, alguns",
+      "3": "Não, nenhum",
+      "<None>": "Não aplicável"
+    },
+    "Q009": {
+      "1": "Sim, todos ",
+      "2": "Sim, alguns",
+      "3": "Não, nenhum",
+      "<None>": "Não aplicável"
+    },
+    "Q010": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q011": {
+      "1": "Há menos de 6 meses",
+      "2": "Entre 6 meses e menos de 1 ano",
+      "3": "Entre 1 ano e menos de 2 anos",
+      "4": "Entre 2 anos e menos de 3 anos",
+      "5": "Há 3 anos ou mais",
+      "6": "Nunca recebeu",
+      "<None>": "Não aplicável"
+    },
+    "Q012": {
+      "01": "Unidade básica de saúde (posto ou centro de saúde ou unidade de saúde da família)",
+      "02": "Centro de Especialidades, Policlínica pública ou PAM - Posto de Assistência Médica",
+      "03": "UPA (Unidade de pronto Atendimento)",
+      "04": "Outro tipo de Pronto Atendimento Público (24 horas)",
+      "05": "Pronto-socorro ou emergência de hospital público",
+      "06": "Hospital público/ambulatório",
+      "07": "Consultório particular ou Clínica privada                                                     ",
+      "08": "Ambulatório ou consultório de empresa ou sindicato",
+      "09": "Pronto-atendimento ou emergência de hospital privado",
+      "10": "No domicílio, com médico da equipe de saúde da família",
+      "11": "No domicílio, com médico particular",
+      "12": "Outro",
+      "<None>": "Não aplicável"
+    },
+    "Q013": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q014": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q015": {
+      "1": "Sim",
+      "2": "Não",
+      "3": "Não sabe",
+      "<None>": "Não aplicável"
+    },
+    "Q016": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q017": {
+      "1": "Sim",
+      "2": "Não",
+      "3": "Não, pois não tinha realizado exames ",
+      "<None>": "Não aplicável"
+    },
+    "Q01801": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q01802": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q01803": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q01804": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q01805": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q01806": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q01807": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q01808": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q01901": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q01902": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q01903": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q01904": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q01905": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q020": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q021": {
+      "01": "O exame está marcado, mas ainda não fez",
+      "02": "Não achou necessário",
+      "03": "Não conseguiu marcar",
+      "04": "O tempo de espera no laboratório ou serviço de saúde era muito grande",
+      "05": "Estava com dificuldades financeiras",
+      "06": "O laboratório ou serviço de saúde era muito distante",
+      "07": "O horário de funcionamento do laboratório ou serviço de saúde era incompatível com as suas atividades de trabalho ou domésticas",
+      "08": "O plano de saúde não cobria todos os exames solicitados",
+      "09": "Não sabia onde realizar os exames",
+      "10": "Dificuldade de transporte",
+      "11": "Outro",
+      "<None>": "Não aplicável"
+    },
+    "Q022": {
+      "1": "Sim",
+      "2": "Não",
+      "3": "Não houve encaminhamento, pois todas as consultas para hipertensão foram com médico especialista",
+      "<None>": "Não aplicável"
+    },
+    "Q023": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q024": {
+      "01": "A consulta está marcada, mas a consulta ainda não foi realizada",
+      "02": "Não achou necessário",
+      "03": "Não sabia quem procurar ou aonde ir",
+      "04": "Estava com dificuldades financeiras",
+      "05": "Teve dificuldades de transporte",
+      "06": "Não conseguiu marcar ",
+      "07": "O tempo de espera no serviço de saúde era muito grande",
+      "08": "O plano de saúde não cobria a consulta",
+      "09": "O serviço de saúde era muito distante",
+      "10": "O horário de funcionamento do serviço de saúde era incompatível com as atividades de trabalho ou domésticas",
+      "11": "Outro",
+      "<None>": "Não aplicável"
+    },
+    "Q026": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q027": {
+      "1": "Há menos de 6 meses",
+      "2": "Entre 6 meses e menos de 1 ano",
+      "3": "Entre 1 ano e menos de 2 anos",
+      "4": "Entre 2 anos e menos de 3 anos",
+      "5": "Há 3 anos ou mais",
+      "<None>": "Não aplicável"
+    },
+    "Q028": {
+      "1": "Não limita",
+      "2": "Um pouco",
+      "3": "Moderadamente",
+      "4": "Intensamente",
+      "5": "Muito intensamente",
+      "<None>": "Não aplicável"
+    },
+    "Q029": {
+      "1": "Há menos de 6 meses",
+      "2": "Entre 6 meses e menos de 1 ano",
+      "3": "Entre 1 ano e menos de 2 anos",
+      "4": "Entre 2 anos e menos de 3 anos",
+      "5": "Há 3 anos ou mais",
+      "6": "Nunca fez",
+      "<None>": "Não aplicável"
+    },
+    "Q030": {
+      "1": "Sim             ",
+      "2": "Apenas durante a gravidez (só para mulheres)",
+      "3": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q031": {
+      "<None>": "Anos"
+    },
+    "Q032": {
+      "1": "Sim             ",
+      "2": "Não, só quando tem algum problema",
+      "3": "Nunca vai",
+      "<None>": "Não aplicável"
+    },
+    "Q033": {
+      "01": "O serviço de saúde é muito distante",
+      "02": "O tempo de espera no serviço de saúde é muito grande",
+      "03": "Tem dificuldades financeiras",
+      "04": "Não acha necessário",
+      "05": "O horário de funcionamento do serviço de saúde é incompátivel com suas atividades de trabalho ou domésticos",
+      "06": "O plano de saúde não cobre as consultas",
+      "07": "Não sabe quem procurar ou aonde ir",
+      "08": "Dificuldade de transporte",
+      "09": "Outro ",
+      "<None>": "Não aplicável"
+    },
+    "Q03401": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q03402": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q035": {
+      "1": "Sim, todos ",
+      "2": "Sim, alguns",
+      "3": "Não, nenhum",
+      "<None>": "Não aplicável"
+    },
+    "Q036": {
+      "1": "Sim, todos ",
+      "2": "Sim, alguns",
+      "3": "Não, nenhum",
+      "<None>": "Não aplicável"
+    },
+    "Q037": {
+      "1": "Sim, todos ",
+      "2": "Sim, alguns",
+      "3": "Não, nenhum",
+      "<None>": "Não aplicável"
+    },
+    "Q038": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q039": {
+      "1": "Há menos de 6 meses",
+      "2": "Entre 6 meses e menos de 1 ano",
+      "3": "Entre 1 ano e menos de 2 anos",
+      "4": "Entre 2 anos e menos de 3 anos",
+      "5": "Há 3 anos ou mais",
+      "6": "Nunca recebeu           ",
+      "<None>": "Não aplicável"
+    },
+    "Q040": {
+      "01": "Unidade básica de saúde (posto ou centro de saúde ou unidade de saúde da família)",
+      "02": "Centro de Especialidades, Policlínica pública ou PAM - Posto de Assistência Médica",
+      "03": "UPA (Unidade de pronto Atendimento)",
+      "04": "Outro tipo de Pronto Atendimento Público (24 horas)",
+      "05": "Pronto-socorro ou emergência de hospital público",
+      "06": "Hospital público/ambulatório",
+      "07": "Consultório particular ou Clínica privada                                                     ",
+      "08": "Ambulatório ou consultório de empresa ou sindicato",
+      "09": "Pronto-atendimento ou emergência de hospital privado",
+      "10": "No domicílio, com médico da equipe de saúde da família",
+      "11": "No domicílio, com médico particular",
+      "12": "Outro",
+      "<None>": "Não aplicável"
+    },
+    "Q041": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q042": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q043": {
+      "1": "Sim",
+      "2": "Não",
+      "3": "Não sabe",
+      "<None>": "Não aplicável"
+    },
+    "Q044": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q045": {
+      "1": "Sim",
+      "2": "Não",
+      "3": "Não, pois não tinha realizado exames ",
+      "<None>": "Não aplicável"
+    },
+    "Q04601": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q04602": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q04603": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q04604": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q04605": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q04606": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q04607": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q04608": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q04609": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q04701": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q04702": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q04703": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q04704": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q04705": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q048": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q049": {
+      "01": "O exame está marcado, mas ainda não fez",
+      "02": "Não achou necessário",
+      "03": "Não conseguiu marcar",
+      "04": "O tempo de espera no laboratório ou serviço de saúde era muito grande",
+      "05": "Estava com dificuldades financeiras",
+      "06": "O laboratório ou serviço de saúde era muito distante",
+      "07": "O horário de funcionamento do laboratório ou serviço de saúde era incompatível com as suas atividades de trabalho ou domésticas",
+      "08": "O plano de saúde não cobria todos os exames solicitados",
+      "09": "Não sabia onde realizar os exames",
+      "10": "Dificuldade de transporte",
+      "11": "Outro",
+      "<None>": "Não aplicável"
+    },
+    "Q050": {
+      "1": "Sim",
+      "2": "Não ",
+      "3": "Não houve encaminhamento, pois todas as consultas para diabetes foram com médico especialista",
+      "<None>": "Não aplicável"
+    },
+    "Q051": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q052": {
+      "01": "A consulta está marcada, mas a consulta ainda não foi realizada ",
+      "02": "Não achou necessário",
+      "03": "Não sabia quem procurar ou aonde ir",
+      "04": "Estava com dificuldades financeiras",
+      "05": "Teve dificuldades de transporte",
+      "06": "Não conseguiu marcar",
+      "07": "O tempo de espera no serviço de saúde era muito grande ",
+      "08": "O plano de saúde não cobria a consulta",
+      "09": "O serviço de saúde era muito distante",
+      "10": "O horário de funcionamento do serviço de saúde era incompatível com as atividades de trabalho domésticas",
+      "11": "Outro",
+      "<None>": "Não aplicável"
+    },
+    "Q053": {
+      "1": "Menos de 6 meses",
+      "2": "De 6 meses a menos de 1 ano",
+      "3": "De 1 ano a menos de  2 anos",
+      "4": "De 2 anos a menos de 3 anos",
+      "5": "3 anos ou mais",
+      "6": "Nunca fez",
+      "9 ": "Ignorado",
+      "<None>": "Não aplicável"
+    },
+    "Q054": {
+      "1": "Menos de 6 meses",
+      "2": "De 6 meses a menos de 1 ano",
+      "3": "De 1 ano a menos de  2 anos",
+      "4": "De 2 anos a menos de 3 anos",
+      "5": "3 anos ou mais",
+      "6": "Nunca teve os pés examinados",
+      "9 ": "Ignorado",
+      "<None>": "Não aplicável"
+    },
+    "Q05501": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q05502": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q05503": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q05504": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q05505": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q05506": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q05507": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q05508": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q05509": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q056": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q057": {
+      "1": "Há menos de 6 meses",
+      "2": "Entre 6 meses e menos de 1 ano",
+      "3": "Entre 1 ano e menos de 2 anos",
+      "4": "Entre 2 anos e menos de 3 anos",
+      "5": "Há 3 anos ou mais ",
+      "<None>": "Não aplicável"
+    },
+    "Q058": {
+      "1": "Não limita",
+      "2": "Um pouco",
+      "3": "Moderadamente",
+      "4": "Intensamente",
+      "5": "Muito intensamente",
+      "<None>": "Não aplicável"
+    },
+    "Q059": {
+      "1": "Há menos de 6 meses",
+      "2": "Entre 6 meses e menos de 1 ano",
+      "3": "Entre 1 ano e menos de 2 anos",
+      "4": "Entre 2 anos e menos de 3 anos",
+      "5": "Há 3 anos ou mais",
+      "6": "Nunca fez             ",
+      "<None>": "Não aplicável"
+    },
+    "Q060": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q061": {
+      "<None>": "Anos"
+    },
+    "Q06201": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q06202": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q06203": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q06204": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q06205": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q06206": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q063": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q06301": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q06302": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q06303": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q06304": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q064": {
+      "<None>": "Anos"
+    },
+    "Q06501": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q06502": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q06503": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q06504": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q066": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q067": {
+      "1": "Não limita",
+      "2": "Um pouco",
+      "3": "Moderadamente",
+      "4": "Intensamente",
+      "<None>": "Não aplicável"
+    },
+    "Q068": {
+      "1": "Sim",
+      "2": "Não",
+      "9 ": "Ignorado",
+      "<None>": "Não aplicável"
+    },
+    "Q069": {
+      "<None>": "Derrames"
+    },
+    "Q070": {
+      "<None>": "Anos"
+    },
+    "Q071": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q07201": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q07202": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q07203": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q07204": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q07205": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q07206": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q073": {
+      "1": "Não limita",
+      "2": "Um pouco",
+      "3": "Moderadamente",
+      "4": "Intensamente",
+      "5": "Muito intensamente",
+      "<None>": "Não aplicável"
+    },
+    "Q074": {
+      "1": "Sim",
+      "2": "Não"
+    },
+    "Q075": {
+      "<None>": "Anos"
+    },
+    "Q076": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q07701": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q07702": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q078": {
+      "1": "Não limita",
+      "2": "Um pouco",
+      "3": "Moderadamente",
+      "4": "Intensamente",
+      "5": "Muito intensamente",
+      "<None>": "Não aplicável"
+    },
+    "Q079": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q080": {
+      "<None>": "Anos"
+    },
+    "Q08101": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q08102": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q08103": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q08104": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q08105": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q082": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q083": {
+      "1": "Não limita",
+      "2": "Um pouco",
+      "3": "Moderadamente",
+      "4": "Intensamente",
+      "5": "Muito intensamente",
+      "<None>": "Não aplicável"
+    },
+    "Q084": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q085": {
+      "<None>": "Anos"
+    },
+    "Q08601": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q08603": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q08604": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q08605": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q087": {
+      "1": "Não limita",
+      "2": "Um pouco",
+      "3": "Moderadamente",
+      "4": "Intensamente",
+      "5": "Muito intensamente",
+      "<None>": "Não aplicável"
+    },
+    "Q088": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q089": {
+      "<None>": "Anos"
+    },
+    "Q09001": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q09003": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q09004": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q09005": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q091": {
+      "1": "Não limita",
+      "2": "Um pouco",
+      "3": "Moderadamente",
+      "4": "Intensamente",
+      "5": "Muito intensamente",
+      "<None>": "Não aplicável"
+    },
+    "Q092": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q093": {
+      "<None>": "Anos"
+    },
+    "Q094": {
+      "1": "Sim",
+      "2": "Não, só quando tem algum problema ",
+      "3": "Nunca vai ",
+      "<None>": "Não aplicável"
+    },
+    "Q095": {
+      "01": "Não está mais deprimido",
+      "02": "O serviço de saúde é muito distante",
+      "03": "Não tem ânimo",
+      "04": "O tempo de espera no serviço de saúde é muito grande",
+      "05": "Tem dificuldades financeiras",
+      "06": "O horário de funcionamento do serviço de saúde é incompatível e com suas atividades de trabalho ou domésticas",
+      "07": "O plano de saúde não cobre as consultas",
+      "08": "Não sabe quem procurar ou aonde ir",
+      "09": "Dificuldade de transporte",
+      "10": "Outro",
+      "<None>": "Não aplicável"
+    },
+    "Q09601": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q09602": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q09603": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q097": {
+      "1": "Sim, todos                  ",
+      "2": "Sim, alguns",
+      "3": "Não, nenhum",
+      "<None>": "Não aplicável"
+    },
+    "Q098": {
+      "1": "Sim, todos                  ",
+      "2": "Sim, alguns",
+      "3": "Não, nenhum",
+      "<None>": "Não aplicável"
+    },
+    "Q100": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q101": {
+      "1": "Há menos de 6 meses",
+      "2": "Entre 6 meses e menos de 1 ano",
+      "3": "Entre 1 ano e menos de 2 anos",
+      "4": "Entre 2 anos e menos de 3 anos",
+      "5": "Há 3 anos ou mais",
+      "6": "Nunca recebeu",
+      "<None>": "Não aplicável"
+    },
+    "Q102": {
+      "01": "Unidade básica de saúde (posto ou centro de saúde ou unidade de saúde da família)",
+      "02": "Centro de Especialidades, Policlínica pública ou PAM  - Posto de Assistência Médica",
+      "03": "UPA (Unidade de pronto Atendimento)",
+      "04": "CAPS – Centro de Atenção Psicossocial",
+      "05": "Outro tipo de Pronto Atendimento Público (24 horas)",
+      "06": "Pronto-socorro ou emergência de hospital público",
+      "07": "Hospital público/ambulatório",
+      "08": "Consultório particular ou Clínica privada                                                     ",
+      "09": "Ambulatório ou consultório de empresa ou sindicato",
+      "10": "Pronto-atendimento ou emergência de hospital privado",
+      "11": "No domicílio, com médico da equipe de saúde da família",
+      "12": "No domicílio, com médico particular",
+      "13": "Outro",
+      "<None>": "Não aplicável"
+    },
+    "Q103": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q104": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q105": {
+      "1": "Sim",
+      "2": "Não",
+      "3": "Não sabe/Não lembra",
+      "<None>": "Não aplicável"
+    },
+    "Q106": {
+      "1": "Sim",
+      "2": "Não",
+      "3": "Não houve encaminhamento, pois todas as consultas para depressão foram com profissional de saúde mental",
+      "<None>": "Não aplicável"
+    },
+    "Q107": {
+      "1": "Sim            ",
+      "2": "Não  ",
+      "<None>": "Não aplicável"
+    },
+    "Q108": {
+      "01": "A consulta está marcada, mas a consulta ainda não foi realizada",
+      "02": "Não conseguiu marcar",
+      "03": "Não achou necessário",
+      "04": "Não teve ânimo",
+      "05": "O tempo de espera no serviço de saúde era muito grande",
+      "06": "Não sabia quem procurar ou aonde ir",
+      "07": "Estava com dificuldades financeiras",
+      "08": "Teve dificuldades de transporte",
+      "09": "O plano de saúde não cobria a consulta",
+      "10": "O serviço de saúde era muito distante",
+      "11": "O horário de funcionamento do serviço de saúde era incompatível com as  atividades de trabalho ou domésticas ",
+      "12": "Outro ",
+      "<None>": "Não aplicável"
+    },
+    "Q109": {
+      "1": "Não limita",
+      "2": "Um pouco",
+      "3": "Moderadamente",
+      "4": "Intensamente",
+      "5": "Muito intensamente",
+      "<None>": "Não aplicável"
+    },
+    "Q110": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q11001": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q11002": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q11003": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q11004": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q111": {
+      "<None>": "Anos"
+    },
+    "Q112": {
+      "1": "Sim              ",
+      "2": "Não",
+      "3": "Não, só quando tenho algum problema",
+      "<None>": "Não aplicável"
+    },
+    "Q113": {
+      "1": "Não acha necessário",
+      "2": "O serviço de saúde é muito distante",
+      "3": "Acha que não vai ser bem recebido no serviço de saúde porque tem uma doença mental",
+      "4": "Tem dificuldades financeiras",
+      "5": "O horário de funcionamento do serviço de saúde é incompatível com suas atividades de trabalho ou domésticas",
+      "6": "O plano de saúde não cobre as consultas regulares",
+      "7": "Não sabe quem procurar ou aonde ir",
+      "8": "Dificuldade de transporte",
+      "9": "Outro",
+      "<None>": "Não aplicável"
+    },
+    "Q11401": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q11402": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q11403": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q115": {
+      "1": "Não limita",
+      "2": "Um pouco",
+      "3": "Moderadamente",
+      "4": "Intensamente",
+      "5": "Muito intensamente",
+      "<None>": "Não aplicável"
+    },
+    "Q116": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q11601": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q11602": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q11603": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q117": {
+      "<None>": "Anos"
+    },
+    "Q11801": {
+      "1": "Sim",
+      "2": "Não",
+      "9 ": "Ignorado",
+      "<None>": "Não aplicável"
+    },
+    "Q11802": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q11803": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q11804": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q119": {
+      "1": "Não limita",
+      "2": "Um pouco",
+      "3": "Moderadamente",
+      "4": "Intensamente",
+      "5": "Muito intensamente",
+      "<None>": "Não aplicável"
+    },
+    "Q120": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q121": {
+      "1": "Pulmão",
+      "2": "Intestino",
+      "3": "Estômago ",
+      "4": "Mama (só para mulheres) ",
+      "5": "Colo de útero (só para mulheres) ",
+      "6": "Próstata (só para homens)",
+      "7": "Pele",
+      "8": "Outro ",
+      "<None>": "Não aplicável"
+    },
+    "Q122": {
+      "<None>": "Anos"
+    },
+    "Q123": {
+      "1": "Não limita",
+      "2": "Um pouco",
+      "3": "Moderadamente",
+      "4": "Intensamente",
+      "5": "Muito intensamente",
+      "<None>": "Não aplicável"
+    },
+    "Q124": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q125": {
+      "<None>": "Anos"
+    },
+    "Q12601": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q12602": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q12603": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q12604": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q12605": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q127": {
+      "1": "Não limita",
+      "2": "Um pouco",
+      "3": "Moderadamente",
+      "4": "Intensamente",
+      "5": "Muito intensamente",
+      "<None>": "Não aplicável"
+    },
+    "Q128": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q130": "",
+    "Q131": {
+      "1": "Não limita",
+      "2": "Um pouco",
+      "3": "Moderadamente",
+      "4": "Intensamente",
+      "5": "Muito intensamente",
+      "<None>": "Não aplicável"
+    },
+    "Q132": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q133": {
+      "<None>": "Dias"
+    },
+    "Q134": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "Q135": {
+      "1": "Sim",
+      "2": "Não, foi receitado por médico para outra pessoa",
+      "<None>": "Não aplicável"
+    },
+    "Q136": {
+      "1": "Menos de 1 ano atrás",
+      "2": "De 1 ano a menos de 2 anos",
+      "3": "De 2 anos a menos de 3 anos",
+      "4": "3 anos ou mais atrás",
+      "5": "Nunca fez",
+      "<None>": "Não aplicável"
+    },
+    "Q137": {
+      "01": "Não acha necessário ",
+      "02": "Tem vergonha ",
+      "03": "Nunca foi orientado para fazer o exame ",
+      "04": "Não sabe quem procurar ou aonde ir ",
+      "05": "Tem dificuldades financeiras ",
+      "06": "Tem dificuldades de transporte ",
+      "07": "Teve dificuldades para marcar consulta ",
+      "08": "O tempo de espera no serviço de saúde é muito grande ",
+      "09": "O serviço de saúde é muito distante ",
+      "10": "O horário de funcionamento do serviço é incompatível com suas atividades de trabalho ou habituais ",
+      "11": "O plano de saúde não cobre a consulta ",
+      "12": "Está marcado, mas ainda não realizou",
+      "13": "Outro",
+      "<None>": "Não aplicável"
+    },
+    "R001": {
+      "1": "Menos de 1 ano atrás",
+      "2": "De 1 ano a menos de 2 anos",
+      "3": "De 2 anos a menos de 3 anos",
+      "4": "3 anos ou mais atrás",
+      "5": "Nunca fez             ",
+      "<None>": "Não aplicável"
+    },
+    "R002": {
+      "01": "Nunca teve relações sexuais",
+      "02": "Não acha necessário",
+      "03": "Tem vergonha",
+      "04": "Nunca foi orientada para fazer o exame ",
+      "05": "Não sabe quem procurar ou aonde ir",
+      "06": "Tem dificuldades financeiras",
+      "07": "Tem dificuldades de transporte",
+      "08": "Teve dificuldades para marcar consulta",
+      "09": "O tempo de espera no serviço de saúde é muito grande",
+      "10": "O serviço de saúde é muito distante",
+      "11": "O horário de funcionamento do serviço é incompatível com suas atividades de trabalho ou domésticas",
+      "12": "O plano de saúde não cobre a consulta ",
+      "13": "Está marcado, mas ainda não realizou",
+      "14": "Outro",
+      "<None>": "Não aplicável"
+    },
+    "R003": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "R004": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "R005": {
+      "1": "Sim",
+      "2": "Não",
+      "3": "Não sabe",
+      "<None>": "Não aplicável"
+    },
+    "R006": {
+      "1": "Menos de 1 mês depois",
+      "2": "Entre 1 mês e menos de 3 meses depois",
+      "3": "Entre 3 meses e menos de 6 meses depois",
+      "4": "6 meses ou mais depois",
+      "5": "Ainda não recebi",
+      "6": "Nunca recebi",
+      "7": "Nunca fui buscar",
+      "<None>": "Não aplicável"
+    },
+    "R007": {
+      "1": "Sim           ",
+      "2": "Não",
+      "3": "Não houve encaminhamento, pois todas as minhas consultas por este motivo foram com médico especialista ",
+      "<None>": "Não aplicável"
+    },
+    "R008": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "R009": {
+      "01": "A consulta está marcada, mas ainda não foi à consulta",
+      "02": "Não achou necessário",
+      "03": "Não sabia quem procurar ou aonde ir",
+      "04": "Estava com dificuldades financeiras",
+      "05": "Teve dificuldades de transporte",
+      "06": "Não conseguiu marcar ",
+      "07": "O tempo de espera no serviço de saúde era muito grande",
+      "08": "O plano de saúde não cobria a consulta",
+      "09": "O serviço de saúde era muito distante",
+      "10": "O horário de funcionamento do serviço de saúde era incompatível com as atividades de trabalho ou domésticas",
+      "11": "Outro",
+      "<None>": "Não aplicável"
+    },
+    "R010": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "R011": {
+      "1": "Mioma uterino",
+      "2": "Prolapso do útero (útero caído)",
+      "3": "Endometriose",
+      "4": "Câncer ginecológico",
+      "5": "Complicações da gravidez ou parto",
+      "6": "Sangramento vaginal anormal",
+      "7": "Outro ",
+      "<None>": "Não aplicável"
+    },
+    "R012": {
+      "00 a 99": "Anos",
+      "<None>": "Não aplicável"
+    },
+    "R013": {
+      "1": "Menos de 1 ano atrás",
+      "2": "De 1 ano a menos de 2 anos atrás",
+      "3": "De 2 anos a menos de 3 anos atrás",
+      "4": "3 anos ou mais atrás",
+      "5": "Nunca fez",
+      "<None>": "Não aplicável"
+    },
+    "R014": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "R015": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "R016": {
+      "01": "O exame está marcado, mas ainda não fez o exame",
+      "02": "Não achou necessário",
+      "03": "Não sabia onde realizar o exame",
+      "04": "Não conseguiu marcar",
+      "05": "Estava com dificuldades financeiras",
+      "06": "Teve dificuldades de transporte",
+      "07": "O tempo de espera no serviço de saúde era muito grande",
+      "08": "O serviço de saúde era muito distante",
+      "09": "O horário de funcionamento do serviço de saúde era incompatível com as suas atividades de trabalho e domésticas ",
+      "10": "O plano de saúde não cobria a mamografia",
+      "11": "Outro ",
+      "<None>": "Não aplicável"
+    },
+    "R017": {
+      "1": "Menos de 1 ano atrás",
+      "2": "De 1 ano a menos de 2 anos",
+      "3": "De 2 anos a menos de 3 anos",
+      "4": "3 anos ou mais atrás",
+      "<None>": "Não aplicável"
+    },
+    "R018": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "R019": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "R020": {
+      "1": "Sim",
+      "2": "Não",
+      "3": "Não sabe",
+      "<None>": "Não aplicável"
+    },
+    "R021": {
+      "1": "Menos de 1 mês depois",
+      "2": "Entre 1 mês e menos de 3 meses depois",
+      "3": "Entre 3 meses e menos de 6 meses depois",
+      "4": "6 meses ou mais depois",
+      "5": "Ainda não recebi",
+      "6": "Nunca recebi",
+      "7": "Nunca fui buscar",
+      "<None>": "Não aplicável"
+    },
+    "R022": {
+      "1": "Sim",
+      "2": "Não                    ",
+      "3": "Não houve encaminhamento, pois todas as minhas consultas por este motivo foram com médico especialista",
+      "<None>": "Não aplicável"
+    },
+    "R023": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "R024": {
+      "01": "A consulta está marcada, mas ainda não foi à consulta",
+      "02": "Não conseguiu marcar ",
+      "03": "Não achou necessário",
+      "04": "Não sabia quem procurar ou aonde ir",
+      "05": "Estava com dificuldades financeiras",
+      "06": "Teve dificuldades de transporte",
+      "07": "O tempo de espera no serviço de saúde era muito grande",
+      "08": "O plano de saúde não cobria a consulta",
+      "09": "O serviço de saúde era muito distante",
+      "10": "O horário de funcionamento do serviço de saúde era incompatível com as atividades de trabalho ou domésticas",
+      "11": "Outro",
+      "<None>": "Não aplicável"
+    },
+    "R025": {
+      "01 a 99": "Anos",
+      "00": "Não Sabe",
+      "<None>": "Não aplicável"
+    },
+    "R026": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "R027": {
+      "01 a 99": "Anos",
+      "00": "Não Sabe",
+      "<None>": "Não aplicável"
+    },
+    "R028": {
+      "1": "Sim",
+      "2": "Não",
+      "3": "Não sei",
+      "<None>": "Não aplicável"
+    },
+    "R029": {
+      "1": "Sim, faz atualmente            ",
+      "2": "Sim,  já fez mas não faz mais",
+      "3": "Não, nunca fez                                                         ",
+      "<None>": "Não aplicável"
+    },
+    "R030": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "R031": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "R032": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "R033": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "R034": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "R035": {
+      "1": "Quer engravidar ou não se incomoda de engravidar           ",
+      "2": "Por motivos religiosos                                           ",
+      "3": "Não sabe como evitar                                             ",
+      "4": "Não sabe aonde ir ou quem procurar para lhe dar orientações  ",
+      "5": "Está grávida                                                     ",
+      "6": "Ligou as trompas                                                 ",
+      "7": "O companheiro fez vasectomia                                     ",
+      "8": "Não tem relações sexuais com homens                              ",
+      "9": "Outro ",
+      "<None>": "Não aplicável"
+    },
+    "R03601": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "R03602": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "R03603": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "R03604": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "R03605": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "R03606": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "R03607": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "R03608": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "R03609": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "R03610": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "R03611": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "R037": {
+      "1": "Sim, fazem atualmente           ",
+      "2": "Sim, já fizeram",
+      "3": "Nunca fizeram ",
+      "<None>": "Não aplicável"
+    },
+    "R038": {
+      "1": "Há menos de 6 meses",
+      "2": "De 6 meses a menos de 1 ano",
+      "3": "Há 1 ano ou mais",
+      "<None>": "Não aplicável"
+    },
+    "R039": {
+      "1": "Sim",
+      "2": "Não",
+      "9": "Ignorado",
+      "<None>": "Não aplicável"
+    },
+    "R040": {
+      "01 a 99": "Anos",
+      "00": "Não sabe",
+      "<None>": "Não aplicável"
+    },
+    "R041": {
+      "1": "Sim                ",
+      "2": "Não               ",
+      "<None>": "Não aplicável"
+    },
+    "R04101": {
+      "01 a 99": "Abortos",
+      "<None>": "Não aplicável"
+    },
+    "R042": {
+      "1": "Sim                ",
+      "2": "Não               ",
+      "<None>": "Não aplicável"
+    },
+    "R04201": {
+      "01 a 99": "Abortos",
+      "<None>": "Não aplicável"
+    },
+    "R043": {
+      "01 a 99": "Partos",
+      "00": "Nenhum",
+      "<None>": "Não aplicável"
+    },
+    "R044": {
+      "01 a 99": "Partos",
+      "00": "Nenhum",
+      "<None>": "Não aplicável"
+    },
+    "R045": {
+      "01 a 99": "Filhos vivos",
+      "00": "Nenhum",
+      "<None>": "Não aplicável"
+    },
+    "R046": {
+      "01 a 99": "Filhos vivos",
+      "00": "Nenhum",
+      "<None>": "Não aplicável"
+    },
+    "R047": {
+      "01 a 99": "Filhos vivos",
+      "00": "Nenhum",
+      "<None>": "Não aplicável"
+    },
+    "R048": {
+      "01 a 99": "Filhos vivos",
+      "00": "Nenhum",
+      "<None>": "Não aplicável"
+    },
+    "R04901": {
+      "01 a 31": "Dia",
+      "<None>": "Não aplicável"
+    },
+    "R04902": {
+      "01 a 12": "Mês",
+      "<None>": "Não aplicável"
+    },
+    "R04903": {
+      "1900 a 2013": "Ano",
+      "<None>": "Não aplicável"
+    },
+    "S001": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "S002": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "S003": {
+      "01 a 45": "Semanas",
+      "88": "Não sabe",
+      "<None>": "Não aplicável"
+    },
+    "S004": {
+      "01 a 99": "Consultas",
+      "<None>": "Não aplicável"
+    },
+    "S005": {
+      "1": "Unidade básica de saúde (posto ou centro de saúde ou unidade de saúde da família) ",
+      "2": "Centro de Especialidades, Policlínica pública ou PAM Posto de Assistência Médica ",
+      "3": "Hospital público/ambulatório ",
+      "4": "Consultório particular ou Clínica privada                                                     ",
+      "5": "Ambulatório ou consultório de empresa ou sindicato ",
+      "6": "Outro ",
+      "<None>": "Não aplicável"
+    },
+    "S006": {
+      "1": "Sim, todas",
+      "2": "Sim, algumas",
+      "3": "Não, nenhuma ",
+      "<None>": "Não aplicável"
+    },
+    "S007": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "S008": {
+      "1": "Sim, todas",
+      "2": "Sim, algumas",
+      "3": "Não, nenhuma ",
+      "4": "Não sabe",
+      "<None>": "Não aplicável"
+    },
+    "S009": {
+      "1": "Médico",
+      "2": "Enfermeira",
+      "3": "Técnico ou auxiliar de enfermagem ",
+      "4": "Parteira",
+      "5": "Outro",
+      "<None>": "Não aplicável"
+    },
+    "S01001": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "S01002": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "S01003": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "S01004": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "S01005": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "S01101": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "S01102": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "S01103": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "S012": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "S013": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "S01401": {
+      "1": "Todas",
+      "2": "Algumas",
+      "3": "Nenhuma",
+      "<None>": "Não aplicável"
+    },
+    "S01402": {
+      "1": "Todas",
+      "2": "Algumas",
+      "3": "Nenhuma",
+      "<None>": "Não aplicável"
+    },
+    "S01403": {
+      "1": "Todas",
+      "2": "Algumas",
+      "3": "Nenhuma",
+      "<None>": "Não aplicável"
+    },
+    "S01404": {
+      "1": "Todas",
+      "2": "Algumas",
+      "3": "Nenhuma",
+      "<None>": "Não aplicável"
+    },
+    "S01405": {
+      "1": "Todas",
+      "2": "Algumas",
+      "3": "Nenhuma",
+      "<None>": "Não aplicável"
+    },
+    "S015": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "S016": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "S017": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "S018": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "S019": {
+      "01": "Não conseguiu marcar ",
+      "02": "Não achou necessário ",
+      "03": "Não sabia quem procurar ou aonde ir ",
+      "04": "Estava com dificuldades financeiras ",
+      "05": "O plano de saúde não cobria a consulta ",
+      "06": "O serviço de saúde era muito distante",
+      "07": "O tempo de espera no serviço de saúde era muito grande ",
+      "08": "O horário de funcionamento do serviço de saúde era incompatível com as atividades de trabalho ou domésticas ",
+      "09": "Não havia especialista no serviço de saúde ",
+      "10": "Dificuldade de transporte",
+      "11": "Outro",
+      "<None>": "Não aplicável"
+    },
+    "S020": {
+      "1": "Sim           ",
+      "2": "Não           ",
+      "<None>": "Não aplicável"
+    },
+    "S021": {
+      "1": "Sim           ",
+      "2": "Não           ",
+      "<None>": "Não aplicável"
+    },
+    "S022": {
+      "1": "Sim           ",
+      "2": "Não           ",
+      "<None>": "Não aplicável"
+    },
+    "S023": {
+      "1": "Sim           ",
+      "2": "Não           ",
+      "<None>": "Não aplicável"
+    },
+    "S024": {
+      "1": "Sim           ",
+      "2": "Não           ",
+      "<None>": "Não aplicável"
+    },
+    "S025": {
+      "1": "Sim           ",
+      "2": "Não           ",
+      "<None>": "Não aplicável"
+    },
+    "S026": {
+      "01": "A consulta está marcada, mas ainda não foi à consulta ",
+      "02": "Não conseguiu marcar ",
+      "03": "Não achou necessário ",
+      "04": "Não sabia quem procurar ou aonde ir ",
+      "05": "Estava com dificuldades financeiras ",
+      "06": "Teve dificuldades de transporte ",
+      "07": "O tempo de espera no serviço de saúde era muito grande ",
+      "08": "O plano de saúde não cobria a consulta ",
+      "09": "O serviço de saúde era muito distante ",
+      "10": "O horário de funcionamento do serviço de saúde era incompatível com as atividades de trabalho ou domésticas",
+      "11": "Outro",
+      "<None>": "Não aplicável"
+    },
+    "S027": {
+      "1": "Sim            ",
+      "2": "Não                ",
+      "3": "Não sabe",
+      "<None>": "Não aplicável"
+    },
+    "S028": {
+      "1": "Sim, foi negativo            ",
+      "2": "Sim, foi positivo            ",
+      "3": "Não recebeu o resultado/Não foi informada antes do parto        ",
+      "<None>": "Não aplicável"
+    },
+    "S029": {
+      "1": "Sim, antes do parto",
+      "2": "Sim, depois do parto",
+      "3": "Não",
+      "<None>": "Não aplicável"
+    },
+    "S030": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "S031": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "S032": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "S033": {
+      "1": "Sim           ",
+      "2": "Não",
+      "3": "Não sabe",
+      "<None>": "Não aplicável"
+    },
+    "S034": {
+      "1": "Sim",
+      "2": "Não, pois já sabia que estava infectada pelo HIV",
+      "3": "Não ",
+      "<None>": "Não aplicável"
+    },
+    "S035": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "S036": {
+      "01 a 99": "Exames",
+      "00": "Nenhum",
+      "<None>": "Não aplicável"
+    },
+    "S037": {
+      "1": "Sim, todos         ",
+      "2": "Sim, alguns",
+      "3": "Não, nenhum",
+      "<None>": "Não aplicável"
+    },
+    "S038": {
+      "01": "Não conseguiu marcar ",
+      "02": "Não achou necessário ",
+      "03": "Não sabia quem procurar ou aonde ir ",
+      "04": "Estava com dificuldades financeiras ",
+      "05": "Teve dificuldades de transporte ",
+      "06": "O serviço de saúde era muito distante ",
+      "07": "O tempo de espera no serviço de saúde era muito grande ",
+      "08": "O horário de funcionamento do serviço de saúde era incompatível com as atividades de trabalho ou domésticas ",
+      "09": "Não havia especialista no serviço de saúde para fazer o exame ",
+      "10": "Não havia equipamento disponível no serviço de saúde",
+      "11": "O plano de saúde não cobria todos os exames ",
+      "12": "Outro",
+      "<None>": "Não aplicável"
+    },
+    "S039": {
+      "1": "Sim, todos",
+      "2": "Sim, alguns",
+      "3": "Não, nenhum",
+      "<None>": "Não aplicável"
+    },
+    "S040": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "S041": {
+      "1": "Sim, todos",
+      "2": "Sim, alguns",
+      "3": "Não, nenhum",
+      "4": "Não sabe",
+      "<None>": "Não aplicável"
+    },
+    "S042": {
+      "1": "Menos de  7 dias  ",
+      "2": "De 7 a 14 dias   ",
+      "3": "De 15 a 30 dias  ",
+      "4": "Mais de 30 dias   ",
+      "5": "Não sabe, não lembra",
+      "<None>": "Não aplicável"
+    },
+    "S043": {
+      "01 a 45": "Semanas",
+      "88": "Não sabe",
+      "<None>": "Não aplicável"
+    },
+    "S044": {
+      "001 a 999": "Quilogramas",
+      "000": "Não sabe",
+      "<None>": "Não aplicável"
+    },
+    "S045": {
+      "001 a 887": "Quilogramas",
+      "000": "Não sabe",
+      "888": "Não engordou",
+      "<None>": "Não aplicável"
+    },
+    "S046": {
+      "1": "Médico ",
+      "2": "Enfermeira ",
+      "3": "Parteira ",
+      "4": "Auxiliar de enfermagem ",
+      "5": "Estudantes de enfermagem ou medicina ",
+      "6": "Doula",
+      "7": "Outra pessoa (parente, amigo, vizinho) sem treinamento ",
+      "8": "Ninguém ",
+      "<None>": "Não aplicável"
+    },
+    "S047": {
+      "1": "Hospital ou maternidade ",
+      "2": "Casa de parto",
+      "3": "Outro tipo de serviço de saúde ",
+      "4": "Em casa ",
+      "5": "Outro",
+      "<None>": "Não aplicável"
+    },
+    "S048": {
+      "1": "Sim",
+      "2": "Não",
+      "3": "Não houve indicação",
+      "<None>": "Não aplicável"
+    },
+    "S049": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "S050": {
+      "01 a 99": "Estabelecimentos",
+      "<None>": "Não aplicável"
+    },
+    "S051": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "S052": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "S053": {
+      "1": "Sim",
+      "2": "Não",
+      "3": "Não sabe",
+      "<None>": "Não aplicável"
+    },
+    "S054": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "S055": {
+      "1": "Não sabia que podia",
+      "2": "Não quis",
+      "3": "Não deixaram",
+      "4": "Não tinha quem a acompanhasse",
+      "<None>": "Não aplicável"
+    },
+    "S056": {
+      "1": "Vaginal           ",
+      "2": "Cesáreo           ",
+      "<None>": "Não aplicável"
+    },
+    "S057": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "S058": {
+      "1": "Já tinha um parto cesáreo anterior ",
+      "2": "Queria ligar as trompas ",
+      "3": "Não queria sentir a dor do parto/Por ser mais conveniente ",
+      "4": "Por escolha do médico durante o pré-natal",
+      "5": "Indicação médica por complicações na gravidez ou no trabalho de parto ",
+      "6": "Indicação médica porque não entrou em trabalho de parto ",
+      "7": "Outro ",
+      "<None>": "Não aplicável"
+    },
+    "U001": {
+      "1": "Nunca escovei os dentes           ",
+      "2": "Não escovo todos os dias",
+      "3": "1 vez por dia",
+      "4": "2 vezes ou mais por dia",
+      "5": "Não se aplica/Morador não tinha dente nenhum",
+      "<None>": "Não aplicável"
+    },
+    "U00201": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "U00202": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "U00203": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "U004": {
+      "1": "Com menos de 3 meses",
+      "2": "Entre 3 meses e menos de 6 meses",
+      "3": "Entre 6 meses e menos de 1 ano",
+      "4": "Com mais de um ano",
+      "5": "Nunca trocou",
+      "<None>": "Não aplicável"
+    },
+    "U005": {
+      "1": "Muito Boa",
+      "2": "Boa",
+      "3": "Regular",
+      "4": "Ruim",
+      "5": "Muito ruim",
+      "<None>": "Não aplicável"
+    },
+    "U006": {
+      "1": "Nenhum",
+      "2": "Leve",
+      "3": "Regular",
+      "4": "Intenso",
+      "5": "Muito intenso",
+      "<None>": "Não aplicável"
+    },
+    "U009": {
+      "01": "Limpeza, revisão, manutenção ou prevenção ",
+      "02": "Dor de dente ",
+      "03": "Extração ",
+      "04": "Tratamento dentário ",
+      "05": "Problema na gengiva ",
+      "06": "Tratamento de ferida na boca ",
+      "07": "Implante dentário ",
+      "08": "Aparelho nos dentes (ortodôntico) ",
+      "09": "Colocação/manutenção de prótese ou dentadura",
+      "10": "Fazer radiografia ",
+      "11": "Fazer o orçamento do tratamento ",
+      "12": "Outro",
+      "<None>": "Não aplicável"
+    },
+    "U010": {
+      "01": "Unidade básica de saúde (posto ou centro de saúde ou unidade de saúde da família) ",
+      "02": "Centro de Especialidades, Policlínica pública ou PAM - Posto de Assistência Médica",
+      "03": "UPA (Unidade de Pronto Atendimento) ",
+      "04": "CEO - Centro de Especialidades Odontológicas ",
+      "05": "Outro tipo de Pronto Atendimento Público (24 horas) ",
+      "06": "Pronto-socorro ou emergência de hospital público ",
+      "07": "Hospital público/ambulatório ",
+      "08": "Consultório particular ou Clínica privada                                                     ",
+      "09": "Ambulatório ou consultório de empresa ou sindicato",
+      "10": "Pronto-atendimento ou emergência de hospital privado ",
+      "11": "Outro",
+      "<None>": "Não aplicável"
+    },
+    "U011": {
+      "1": "Na mesma cidade que o(a) Sr(a) mora",
+      "2": "Em outra cidade ",
+      "<None>": "Não aplicável"
+    },
+    "U014": {
+      "1": "Foi direto ao serviço de saúde, sem marcar consulta     ",
+      "2": "Agendou a consulta previamente           ",
+      "3": "Foi encaminhado(a) ou ajudado(a) por equipe de saúde da família ",
+      "4": "Foi encaminhado(a) ou ajudado(a) pela Unidade Básica de Saúde",
+      "5": "Foi encaminhado(a) por outro serviço ou profissional de saúde ",
+      "6": "Outro",
+      "<None>": "Não aplicável"
+    },
+    "U015": {
+      "1": "Deixou agendado em consulta anterior",
+      "2": "Por meio de visita à unidade de saúde para marcação de consulta",
+      "3": "Por telefone",
+      "4": "Agendamento virtual, pela internet",
+      "5": "Outra forma",
+      "<None>": "Não aplicável"
+    },
+    "U01701": {
+      "00": "-",
+      "01 a 99": "Horas",
+      "<None>": "Não aplicável"
+    },
+    "U01702": {
+      "00": "-",
+      "01 a 59": "Minutos",
+      "<None>": "Não aplicável"
+    },
+    "U01801": {
+      "00": "-",
+      "01 a 99": "Horas",
+      "<None>": "Não aplicável"
+    },
+    "U01802": {
+      "00": "-",
+      "01 a 59": "Minutos",
+      "<None>": "Não aplicável"
+    },
+    "U019": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "U020": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "U021": {
+      "1": "Sim",
+      "2": "Não",
+      "3": "Não sabe",
+      "<None>": "Não aplicável"
+    },
+    "U022": {
+      "1": "Muito bom",
+      "2": "Bom",
+      "3": "Regular",
+      "4": "Ruim",
+      "5": "Muito ruim",
+      "<None>": "Não aplicável"
+    },
+    "U023": {
+      "1": "Não",
+      "2": "Sim, perdi         ",
+      "3": "Sim, perdi todos os dentes de cima",
+      "<None>": "Não aplicável"
+    },
+    "U02301": {
+      "01 a 16": "Dentes",
+      "<None>": "Não aplicável"
+    },
+    "U024": {
+      "1": "Não",
+      "2": "Sim, perdi         ",
+      "3": "Sim, todos os dentes de baixo",
+      "<None>": "Não aplicável"
+    },
+    "U02401": {
+      "01 a 16": "Dentes",
+      "<None>": "Não aplicável"
+    },
+    "U025": {
+      "1": "Não",
+      "2": "Sim, para substituir um dente",
+      "3": "Sim, para substituir mais de um dente",
+      "4": "Sim, prótese dentária total (dentadura/chapa) em cima",
+      "5": "Sim, prótese dentária total (dentadura/chapa) em baixo",
+      "6": "Sim, próteses dentárias totais (dentaduras/chapas) em cima e em baixo  ",
+      "<None>": "Não aplicável"
+    },
+    "UPA": "",
+    "UPA_PNS": "",
+    "V0001": {
+      "11": "Rondônia",
+      "12": "Acre",
+      "13": "Amazonas",
+      "14": "Roraima",
+      "15": "Pará",
+      "16": "Amapá",
+      "17": "Tocantins",
+      "21": "Maranhão",
+      "22": "Piauí",
+      "23": "Ceará",
+      "24": "Rio Grande do Norte",
+      "25": "Paraíba",
+      "26": "Pernambuco",
+      "27": "Alagoas",
+      "28": "Sergipe",
+      "29": "Bahia",
+      "31": "Minas Gerais",
+      "32": "Espírito Santo",
+      "33": "Rio de Janeiro",
+      "35": "São Paulo",
+      "41": "Paraná",
+      "42": "Santa Catarina",
+      "43": "Rio Grande do Sul",
+      "50": "Mato Grosso do Sul",
+      "51": "Mato Grosso",
+      "52": "Goiás",
+      "53": "Distrito Federal"
+    },
+    "V0006_PNS": "",
+    "V0015": {
+      "01": "TIPO A - Realizada",
+      "02": "TIPO A - Fechada",
+      "03": "TIPO A - Recusa",
+      "04": "TIPO A - Outra",
+      "05": "TIPO B - Em condições de ser habitada",
+      "06": "TIPO B - Uso ocasional",
+      "07": "TIPO B - Em construção ou reforma",
+      "08": "TIPO B - Em ruínas",
+      "09": "TIPO C - Demolida",
+      "10": "TIPO C - Não foi encontrada",
+      "11": "TIPO C - Não residencial",
+      "12": "TIPO C - Fora do setor"
+    },
+    "V0020": "",
+    "V0022": {
+      "01 a 30": "Pessoas",
+      "<None>": "Não aplicável"
+    },
+    "V0024": "",
+    "V0025": {
+      "0": "Não selecionada",
+      "1": "Selecionada",
+      "9": "Não aplicável"
+    },
+    "V0026": {
+      "1": "Urbano",
+      "2": "Rural"
+    },
+    "V0028": {
+      "5 dígitos e 8 casas decimais": "Peso do domicílio e dos moradores com correção de não entrevista sem calibração pela projeção de população"
+    },
+    "V00281": {
+      "5 dígitos e 8 casas decimais": "Peso do domicílio e dos moradores com correção de não entrevista com calibração pela projeção de população - Usado no cálculo de indicadores de domicílio e moradores"
+    },
+    "V00282": {
+      "<None>": "Projeção da população"
+    },
+    "V00283": {
+      "<None>": "Domínio de projeção para domicílio e moradores"
+    },
+    "V0029": {
+      "5 dígitos e 8 casas decimais": "Peso do morador selecionado com correção de não entrevista sem calibração pela projeção de população para morador selecionado"
+    },
+    "V00291": {
+      "5 dígitos e 8 casas decimais": "Peso do morador selecionado com correção de não entrevista com calibração pela projeção de população para morador selecionado - Usado no cálculo de indicadores de morador selecionado"
+    },
+    "V00292": {
+      "8 dígitos e 8 casas decimais": "Projeção da população obtida com os dados dos moradores dos domicílios da pesquisa - Só aplicável para domicílios com entrevista realizada para morador selecionado"
+    },
+    "V00293": {
+      "<None>": "Domínio de projeção para morador selecionado - Só aplicável para domicílios com entrevista realizada para morador selecionado"
+    },
+    "V0031": {
+      "1": "Capital",
+      "2": "Resto da RM (Região Metropolitana, excluindo a capital)",
+      "3": "RIDE (excluindo a capital)",
+      "4": "Resto da UF (Unidade da Federação, excluindo a região metropolitana e RIDE)"
+    },
+    "VDC001": {
+      "01 a 30": "Pessoas",
+      "<None>": "Não aplicável"
+    },
+    "VDC002": {
+      "01 a 30": "Pessoas",
+      "<None>": "Não aplicável"
+    },
+    "VDD004": {
+      "1": "Sem instrução",
+      "2": "Fundamental incompleto ou equivalente",
+      "3": "Fundamental completo ou equivalente",
+      "4": "Médio incompleto ou equivalente",
+      "5": "Médio completo ou equivalente",
+      "6": "Superior incompleto ou equivalente",
+      "7": "Superior completo ",
+      "<None>": "Não aplicável"
+    },
+    "VDD004A": {
+      "1": "Sem instrução",
+      "2": "Fundamental incompleto ou equivalente",
+      "3": "Fundamental completo ou equivalente",
+      "4": "Médio incompleto ou equivalente",
+      "5": "Médio completo ou equivalente",
+      "6": "Superior incompleto ou equivalente",
+      "7": "Superior completo ",
+      "<None>": "Não aplicável"
+    },
+    "VDDATA": "",
+    "VDE001": {
+      "1": "Pessoas na força de trabalho",
+      "2": "Pessoas fora da força de trabalho",
+      "<None>": "Não aplicável"
+    },
+    "VDE002": {
+      "1": "Pessoas Ocupadas ",
+      "2": "Pessoas desocupadas ",
+      "<None>": "Não aplicável"
+    },
+    "VDF001": {
+      "1": "Sim",
+      "2": "Não"
+    },
+    "VDF00102": {
+      "00000001 a 99999999": "Reais",
+      "<None>": "Não recebe/Não aplicável"
+    },
+    "VDF002": {
+      "00000001 a 99999999": "Reais",
+      "<None>": "Não aplicável"
+    },
+    "VDF003": {
+      "00000001 a 99999999": "Reais",
+      "<None>": "Não aplicável"
+    },
+    "W00101": {
+      "30 a 200": "Quilogramas",
+      "999": "Erro",
+      "<None>": "Não aplicável"
+    },
+    "W00102": {
+      "30 a 200": "Quilogramas",
+      "999": "Erro",
+      "<None>": "Não aplicável"
+    },
+    "W00103": {
+      "30 a 200": "Quilogramas",
+      "999": "Erro",
+      "<None>": "Não aplicável"
+    },
+    "W00201": {
+      "120 a 210": "Centímetros",
+      "999": "Erro",
+      "<None>": "Não aplicável"
+    },
+    "W00202": {
+      "120 a 210": "Centímetros",
+      "999": "Erro",
+      "<None>": "Não aplicável"
+    },
+    "W00203": {
+      "120 a 210": "Centímetros",
+      "999": "Erro",
+      "<None>": "Não aplicável"
+    },
+    "W00301": {
+      "20 a 210": "Centímetros",
+      "<None>": "Não aplicável"
+    },
+    "W00302": {
+      "20 a 210": "Centímetros",
+      "<None>": "Não aplicável"
+    },
+    "W00303": {
+      "20 a 210": "Centímetros",
+      "<None>": "Não aplicável"
+    },
+    "W00401": {
+      "60 a 290": "mmHg",
+      "999": "Erro",
+      "<None>": "Não aplicável"
+    },
+    "W00402": {
+      "30 a 200": "mmHg",
+      "999": "Erro",
+      "<None>": "Não aplicável"
+    },
+    "W00403": {
+      "60 a 290": "mmHg",
+      "999": "Erro",
+      "<None>": "Não aplicável"
+    },
+    "W00404": {
+      "30 a 200": "mmHg",
+      "999": "Erro",
+      "<None>": "Não aplicável"
+    },
+    "W00405": {
+      "60 a 290": "mmHg",
+      "999": "Erro",
+      "<None>": "Não aplicável"
+    },
+    "W00406": {
+      "30 a 200": "mmHg",
+      "999": "Erro",
+      "<None>": "Não aplicável"
+    },
+    "W00407": {
+      "60 a 290": "mmHg",
+      "999": "Erro",
+      "<None>": "Não aplicável"
+    },
+    "W00408": {
+      "30 a 200": "mmHg",
+      "999": "Erro",
+      "<None>": "Não aplicável"
+    },
+    "X001": {
+      "1": "Há menos de 2 semanas",
+      "2": "Entre 15 dias e um mês",
+      "3": "Entre um mês e 3 meses atrás",
+      "4": "Entre três meses e um ano",
+      "5": "Há mais de um ano            ",
+      "6": "Nunca foi ao médico",
+      "<None>": "Não aplicável"
+    },
+    "X002": {
+      "1": "Acidente ou lesão",
+      "2": "Continuação de tratamento ou terapia",
+      "3": "Consulta pré-natal",
+      "4": "Exame médico periódico",
+      "5": "Outro exame médico (admissional, para carteira de motorista, etc.)",
+      "6": "Problema de saúde mental",
+      "7": "Doença ou outro problema de saúde ",
+      "8": "Outro",
+      "<None>": "Não aplicável"
+    },
+    "X003": {
+      "01": "Unidade básica de saúde (posto ou centro de saúde ou unidade de saúde da família) ",
+      "02": "Centro de Especialidades, Policlínica pública ou PAM - Posto de Assistência Médica",
+      "03": "CAPS - Centro de Atenção Psicossocial ",
+      "04": "UPA (Unidade de Pronto Atendimento) ",
+      "05": "Outro tipo de Pronto Atendimento Público (24 horas) ",
+      "06": "Pronto-socorro ou emergência de hospital público ",
+      "07": "Hospital público/ambulatório ",
+      "08": "Consultório particular ou Clínica particular",
+      "09": "Ambulatório ou consultório de empresa ou sindicato ",
+      "10": "Pronto-atendimento ou emergência de hospital privado ",
+      "11": "No domicílio, com médico particular ",
+      "12": "No domicílio, com médico da equipe de saúde da família ",
+      "13": "Outro",
+      "<None>": "Não aplicável"
+    },
+    "X004": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "X005": {
+      "00": "Nenhuma/Desistiu",
+      "01 a 99": "Vezes",
+      "<None>": "Não aplicável"
+    },
+    "X006": {
+      "1": "Sim              ",
+      "2": "Não, mas continua tentando           ",
+      "3": "Não, desistiu   ",
+      "<None>": "Não aplicável"
+    },
+    "X007": {
+      "01": "Unidade básica de saúde (posto ou centro de saúde ou unidade de saúde da família) ",
+      "02": "Centro de Especialidades, Policlínica pública ou PAM - Posto de Assistência Médica ",
+      "03": "UPA (Unidade de Pronto Atendimento) ",
+      "04": "CAPS - Centro de Atenção Psicossocial ",
+      "05": "Outro tipo de Pronto Atendimento Público (24 horas) ",
+      "06": "Pronto-socorro ou emergência de hospital público ",
+      "07": "Hospital público/ambulatório ",
+      "08": "Consultório particular ou Clínica particular ",
+      "09": "Ambulatório ou consultório de empresa ou sindicato ",
+      "10": "Pronto-atendimento ou emergência de hospital privado ",
+      "11": "No domicílio, com médico particular",
+      "12": "No domicílio, com médico da equipe de saúde da família ",
+      "13": "Outro",
+      "<None>": "Não aplicável"
+    },
+    "X008": {
+      "1": "Na mesma cidade que o(a) Sr(a) mora",
+      "2": "Em outra cidade ",
+      "<None>": "Não aplicável"
+    },
+    "X011": {
+      "1": "Foi direto ao serviço de saúde, sem marcar consulta.",
+      "2": "Agendou a consulta previamente",
+      "3": "Foi encaminhado(a) ou ajudado(a) por equipe de saúde da família",
+      "4": "Foi encaminhado(a) ou ajudado(a) por Unidade Básica de Saúde",
+      "5": "Foi encaminhado(a) por outro serviço ou profissional de saúde",
+      "6": "Exame periódico pago ou encaminhado pelo empregador",
+      "7": "Atendimento de emergência",
+      "8": "Outro ",
+      "<None>": "Não aplicável"
+    },
+    "X012": {
+      "1": "Deixou agendado em consulta anterior",
+      "2": "Por meio de visita à unidade de saúde para marcação de consulta",
+      "3": "Por telefone",
+      "4": "Agendamento virtual, pela internet",
+      "5": "Outra forma",
+      "<None>": "Não aplicável"
+    },
+    "X01401": {
+      "00": "-",
+      "01 a 99": "Horas",
+      "<None>": "Não aplicável"
+    },
+    "X01402": {
+      "00": "-",
+      "01 a 59": "Minutos",
+      "<None>": "Não aplicável"
+    },
+    "X01501": {
+      "00": "-",
+      "01 a 99": "Horas",
+      "<None>": "Não aplicável"
+    },
+    "X01502": {
+      "00": "-",
+      "01 a 59": "Minutos",
+      "<None>": "Não aplicável"
+    },
+    "X016": {
+      "1": "Médico da família ou generalista",
+      "2": "Clínico geral",
+      "3": "Ginecologista",
+      "4": "Médico especialista (cardiologista, nefrologista, oftalmologista, dermatologista, urologista, oncologista, otorrinolaringologista, etc.)",
+      "5": "Outro",
+      "<None>": "Não aplicável"
+    },
+    "X017": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "X018": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "X019": {
+      "1": "Sim",
+      "2": "Não",
+      "3": "Não sabe",
+      "<None>": "Não aplicável"
+    },
+    "X02001": {
+      "1": "Muito bom",
+      "2": "Bom",
+      "3": "Regular",
+      "4": "Ruim",
+      "5": "Muito ruim  ",
+      "<None>": "Não aplicável"
+    },
+    "X02002": {
+      "1": "Muito bom",
+      "2": "Bom",
+      "3": "Regular",
+      "4": "Ruim",
+      "5": "Muito ruim  ",
+      "<None>": "Não aplicável"
+    },
+    "X02003": {
+      "1": "Muito bom",
+      "2": "Bom",
+      "3": "Regular",
+      "4": "Ruim",
+      "5": "Muito ruim  ",
+      "<None>": "Não aplicável"
+    },
+    "X02004": {
+      "1": "Muito bom",
+      "2": "Bom",
+      "3": "Regular",
+      "4": "Ruim",
+      "5": "Muito ruim  ",
+      "<None>": "Não aplicável"
+    },
+    "X02005": {
+      "1": "Muito bom",
+      "2": "Bom",
+      "3": "Regular",
+      "4": "Ruim",
+      "5": "Muito ruim  ",
+      "<None>": "Não aplicável"
+    },
+    "X02006": {
+      "1": "Muito bom",
+      "2": "Bom",
+      "3": "Regular",
+      "4": "Ruim",
+      "5": "Muito ruim  ",
+      "<None>": "Não aplicável"
+    },
+    "X02201": {
+      "1": "Muito bom",
+      "2": "Bom",
+      "3": "Regular",
+      "4": "Ruim",
+      "5": "Muito ruim  ",
+      "<None>": "Não aplicável"
+    },
+    "X02202": {
+      "1": "Muito bom",
+      "2": "Bom",
+      "3": "Regular",
+      "4": "Ruim",
+      "5": "Muito ruim  ",
+      "<None>": "Não aplicável"
+    },
+    "X02203": {
+      "1": "Muito bom",
+      "2": "Bom",
+      "3": "Regular",
+      "4": "Ruim",
+      "5": "Muito ruim  ",
+      "<None>": "Não aplicável"
+    },
+    "X02204": {
+      "1": "Muito bom",
+      "2": "Bom",
+      "3": "Regular",
+      "4": "Ruim",
+      "5": "Muito ruim  ",
+      "<None>": "Não aplicável"
+    },
+    "X02205": {
+      "1": "Muito bom",
+      "2": "Bom",
+      "3": "Regular",
+      "4": "Ruim",
+      "5": "Muito ruim  ",
+      "<None>": "Não aplicável"
+    },
+    "X02206": {
+      "1": "Muito bom",
+      "2": "Bom",
+      "3": "Regular",
+      "4": "Ruim",
+      "5": "Muito ruim  ",
+      "<None>": "Não aplicável"
+    },
+    "X024": {
+      "01": "Não houve mais necessidade, pois melhorou",
+      "02": "Procurou diretamente a farmácia",
+      "03": "Não teve mais tempo ou disponibilidade para procurar atendimento",
+      "04": "Falta de dinheiro ou dificuldades financeiras",
+      "05": "Não conseguiu marcar a consulta ou pegar senha",
+      "06": "Nas vezes que procurou, não tinha médico atendendo",
+      "07": "Nas vezes que procurou, esperou muito e desistiu",
+      "08": "Nas vezes que procurou, o serviço de saúde não estava funcionando",
+      "09": "Não podia pagar pela consulta",
+      "10": "O plano de saúde não cobria a consulta",
+      "11": "Outro ",
+      "<None>": "Não aplicável"
+    },
+    "X02501": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "X02502": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "X02503": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "X02504": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "X02505": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "X02506": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "X02507": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "X02508": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "X02509": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "X02510": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    },
+    "k055": {
+      "1": "Sim",
+      "2": "Não",
+      "<None>": "Não aplicável"
+    }
+  }
+}
